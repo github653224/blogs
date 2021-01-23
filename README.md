@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 潘雪岩的博客
+tagline: 热爱技术的小牛.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
