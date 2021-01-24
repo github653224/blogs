@@ -43,8 +43,13 @@ module.exports = {
       },
       {
         "text": "关于我",
-        "link": "/about/me/",
-        "icon": "reco-date"
+        "icon": "reco-message",
+        "items": [
+          {
+            "text": "vuepress-reco",
+            "link": "/about/me/"
+          }
+        ]
       },
       {
         "text": "Contact",
@@ -52,7 +57,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/github653224",
             "icon": "reco-github"
           }
         ]
@@ -103,7 +108,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "panxueyan",
     "authorAvatar": "/avatar.png",
-    "record": "github653224托管",
+    "record": "github托管",
     "startYear": "2015"
   },
   "markdown": {
