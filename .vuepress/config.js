@@ -68,7 +68,8 @@ module.exports = {
         "",
         "theme",
         "plugin",
-        "api"
+        "api",
+        "update_method"
       ]
     },
     "type": "blog",
