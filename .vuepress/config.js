@@ -32,6 +32,11 @@ module.exports = {
         "icon": "reco-date"
       },
       {
+        "text": "关于我",
+        "link": "/about/",
+        "icon": "reco-date"
+      },
+      {
         "text": "Docs",
         "icon": "reco-message",
         "items": [
@@ -51,11 +56,6 @@ module.exports = {
             "icon": "reco-github"
           }
         ]
-      }，
-       {
-        "text": "关于我",
-        "link": "/about/",
-        "icon": "reco-date"
       }
     ],
     "sidebar": {
