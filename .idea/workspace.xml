@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18031e00-1290-4c7a-910b-c019d79414f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/public/xiangshou01.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/public/xiangshou.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/public/xiangshou02.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/public/weixin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/public/xiangshou03.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/public/jiaqi.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogs/生活/2021/012401.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/生活/2021/012401.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
