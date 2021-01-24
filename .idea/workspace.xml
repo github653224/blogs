@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18031e00-1290-4c7a-910b-c019d79414f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogs/WebUI自动化测试/2021/012401.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogs/前段/vue/2021/012301.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogs/about/about_me.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/java/2021/012301.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Java/2021/012301.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/python/2021/012301.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Python/2021/012301.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/python/2021/012302.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Python/2021/012302.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/WebUI自动化测试/2021/012401.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/category1/2018/121501.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/自动化测试/2018/121501.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/category1/2019/092101.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/自动化测试/2019/092101.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/category2/2016/121501.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/性能测试/2016/121501.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/category2/2017/092101.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/性能测试/2017/092101.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/前段/vue/2021/012301.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +30,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="editorconfig.notification" value="lf;" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogs/about" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blogs/about" />
+      <recent name="$PROJECT_DIR$/blogs/接口测试" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,6 +48,9 @@
       <updated>1611451268618</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

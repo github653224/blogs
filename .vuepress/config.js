@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "blogs",
+  "title": "潘雪岩的技术专栏",
   "description": "blog of panxueyan",
   "base": "/blogs/",
   "head": [
@@ -51,6 +51,11 @@ module.exports = {
             "icon": "reco-github"
           }
         ]
+      }，
+       {
+        "text": "关于我",
+        "link": "/about/",
+        "icon": "reco-date"
       }
     ],
     "sidebar": {
@@ -73,6 +78,12 @@ module.exports = {
       }
     },
     "friendLink": [
+     {
+        "title": "热爱技术的小牛",
+        "desc": "博客园技术博客.",
+        "email": "944851899@qq.com",
+        "link": "https://www.cnblogs.com/my-blogs-for-everone/"
+      },
       {
         "title": "午后南杂",
         "desc": "Enjoy when you can, and endure when you must.",
@@ -92,8 +103,8 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "panxueyan",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
-    "startYear": "2017"
+    "record": "github653224托管",
+    "startYear": "2015"
   },
   "markdown": {
     "lineNumbers": true
