@@ -43,7 +43,7 @@ module.exports = {
       },
       {
         "text": "关于我",
-        "link": "/about/",
+        "link": "/about/me/",
         "icon": "reco-date"
       },
       {
@@ -64,6 +64,9 @@ module.exports = {
         "theme",
         "plugin",
         "api"
+      ],
+      "/about/me/" :[
+      ""
       ]
     },
     "type": "blog",
