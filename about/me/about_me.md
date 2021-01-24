@@ -3,9 +3,6 @@ title: 关于我
 date: 2021-01-23  
 tags:
  - me
-
-categories:  
- -  about
 ---
 
 ### 关于我
