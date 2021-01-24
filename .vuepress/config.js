@@ -46,7 +46,7 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
-            "text": "vuepress-reco",
+            "text": "me",
             "link": "/about/me/"
           }
         ]
