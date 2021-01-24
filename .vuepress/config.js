@@ -64,9 +64,6 @@ module.exports = {
         "theme",
         "plugin",
         "api"
-      ],
-      "/about/me/" :[
-      ""
       ]
     },
     "type": "blog",
