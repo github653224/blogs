@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18031e00-1290-4c7a-910b-c019d79414f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/Python/2021/012301.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Python/2021/012301.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/Python/2021/012302.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Python/2021/012302.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/Python/2021/012801.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Python/2021/012801.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/Python/2021/012802.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/Python/2021/012802.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
