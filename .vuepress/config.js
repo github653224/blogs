@@ -77,8 +77,9 @@ module.exports = {
       ],
       "/docs/python教程/": [
         "",
-        "01_push_code",
-        "02_python数据结构"
+        "push_code",
+        "python数据结构",
+        "python列表"
 
       ]
     },

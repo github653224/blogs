@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18031e00-1290-4c7a-910b-c019d79414f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/python教程/02_python数据结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/python教程/python列表.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/python教程/update_method.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python教程/01_push_code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/python教程/01_push_code.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python教程/push_code.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/python教程/02_python数据结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python教程/python数据结构.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

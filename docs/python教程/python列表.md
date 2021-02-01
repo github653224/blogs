@@ -1,5 +1,5 @@
 ---
-title: 01_push_code
+title: python列表操作章节
 date: 2020-01-24
 ---
 
