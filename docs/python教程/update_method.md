@@ -1,5 +1,5 @@
 ---
-title: 本地更新步骤
+title: pushing code method
 date: 2020-01-24
 ---
 

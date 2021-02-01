@@ -38,8 +38,13 @@ module.exports = {
           {
             "text": "vuepress-reco",
             "link": "/docs/theme-reco/"
+          },
+          {
+            "text": "python教程",
+            "link": "/docs/python教程/"
           }
         ]
+
       },
       {
         "text": "关于我",
@@ -68,7 +73,10 @@ module.exports = {
         "",
         "theme",
         "plugin",
-        "api",
+        "api"
+      ],
+      "/docs/python教程/": [
+        "",
         "update_method"
       ]
     },

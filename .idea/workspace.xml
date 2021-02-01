@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18031e00-1290-4c7a-910b-c019d79414f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogs/自动化测试/2021/020102.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/python教程/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/自动化测试/2021/020101.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/自动化测试/2021/020101.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/theme-reco/update_method.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python教程/update_method.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +35,11 @@
       <recent name="$PROJECT_DIR$/blogs/接口测试" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/python教程" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/blogs" />
       <recent name="$PROJECT_DIR$/about/me" />
       <recent name="$PROJECT_DIR$/about" />
-      <recent name="$PROJECT_DIR$/blogs/about/2021" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
