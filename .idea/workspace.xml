@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18031e00-1290-4c7a-910b-c019d79414f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/python教程/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/python教程/02_python数据结构.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/theme-reco/update_method.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python教程/update_method.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/python教程/update_method.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python教程/01_push_code.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +25,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="editorconfig.notification" value="lf;" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.vuepress/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/python教程" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/python教程" />
       <recent name="$PROJECT_DIR$/.vuepress/public" />
       <recent name="$PROJECT_DIR$/blogs/生活/2021" />
       <recent name="$PROJECT_DIR$/blogs/about" />

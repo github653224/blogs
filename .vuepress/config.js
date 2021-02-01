@@ -77,7 +77,9 @@ module.exports = {
       ],
       "/docs/python教程/": [
         "",
-        "update_method"
+        "01_push_code",
+        "02_python数据结构"
+
       ]
     },
     "type": "blog",
