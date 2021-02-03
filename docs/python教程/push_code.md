@@ -1,5 +1,5 @@
 ---
-title: push code method
+title: 更新本地到远程仓库
 date: 2020-01-24
 ---
 
@@ -32,5 +32,5 @@ date: 2020-01-24
    git init
    git add -A
    git commit -m 'update'
-   ~~~~git push -f git@github.com:github653224/blogs.git master:blog-br01~~~~
+   git push -f git@github.com:github653224/blogs.git master:blog-br01
    ```

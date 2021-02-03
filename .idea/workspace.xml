@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18031e00-1290-4c7a-910b-c019d79414f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/python教程/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python教程/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/python教程/push_code.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python教程/push_code.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +16,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nUirVs83GF3E7BkcsIxVOxPJIt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="editorconfig.notification" value="lf;" />
@@ -66,5 +71,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
