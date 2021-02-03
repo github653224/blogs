@@ -1,5 +1,5 @@
 ---
-title: python资料学习合集
+title: python教程
 date: 2021-02-01
 ---
 
