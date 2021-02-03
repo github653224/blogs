@@ -13,16 +13,20 @@ table th:first-of-type {
     width: 8cm;
 }
 table th:nth-of-type(2) {
-    width: 200pt;
+    width: 150pt;
 }
 table th:nth-of-type(3) {
     width: 8em;
 }
 </style>
 
-| 姓名 | 潘雪岩 | ceshi |  
+| 姓名 | 潘雪岩 | ceshi |
+
 | ---- | ---- | ---- | 
-| ddddd  | dddeeee | 啊啊啊 | 
+
+| ddddd               | dddeeee    | 啊啊啊                | 
+
+
 - **姓名:**  潘雪岩
 - **出生年月:**  保密
 - **学历:**  统招本科
