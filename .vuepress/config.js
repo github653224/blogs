@@ -75,7 +75,7 @@ module.exports = {
         "plugin",
         "api"
       ],
-      "/docs/python教程/": [
+      "/docs/python系列教程/": [
         "",
         "push_code",
         "python数据结构",
