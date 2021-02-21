@@ -101,6 +101,7 @@ module.exports = {
         "email": "944851899@qq.com",
         "link": "https://www.cnblogs.com/my-blogs-for-everone/"
       },
+      /*
       {
         "title": "午后南杂",
         "desc": "Enjoy when you can, and endure when you must.",
@@ -112,7 +113,7 @@ module.exports = {
         "desc": "A simple and beautiful vuepress Blog & Doc theme.",
         "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         "link": "https://vuepress-theme-reco.recoluan.com"
-      }
+      }*/
     ],
     "logo": "/logo.png",
     "search": true,
