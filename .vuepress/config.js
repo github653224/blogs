@@ -119,7 +119,7 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "panxueyan",
-    "authorAvatar": "/avatar.png",
+    "authorAvatar": "/avatar-scan.png",
     "record": "github托管",
     "startYear": "2015"
   },
