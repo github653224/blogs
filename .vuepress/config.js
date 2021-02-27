@@ -139,8 +139,8 @@ module.exports = {
       ['@vuepress-reco/comments', {
         solution: 'valine',
         options: {
-          appId: '5ce9f13dfe9af3fe850f',// your appId
-          appKey: '063644a2bb2124d91c85002cfd24f7e40f727d86', // your appKey
+          appId: '5ce9f13dfe9af3fe850f',
+          appKey: '063644a2bb2124d91c85002cfd24f7e40f727d86',
         }
       }],
       ['@vuepress/active-header-links', {
