@@ -152,7 +152,7 @@ module.exports = {
       ['dynamic-title'],
 
       ['sitemap', {
-        hostname: 'https://pake.web.id'
+        hostname: 'https://github653224.github.io/blogs/'
       }]
 
     ]
