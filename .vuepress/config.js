@@ -133,24 +133,20 @@ module.exports = {
     headerAnchorSelector: '.header-anchor'
   }]
   */
+
   plugins: [
 
       ['@vuepress-reco/comments', {
-        solution: 'vssue',
+        solution: 'valine',
         options: {
-          title: 'vuepress-theme-reco',
-          platform: 'github',
-          owner: 'OWNER_OF_REPO',
-          repo: 'NAME_OF_REPO',
-          clientId: 'YOUR_CLIENT_ID',
-          clientSecret: 'YOUR_CLIENT_SECRET',
+          appId: '5ce9f13dfe9af3fe850f',// your appId
+          appKey: '063644a2bb2124d91c85002cfd24f7e40f727d86', // your appKey
         }
       }],
-
       ['@vuepress/active-header-links', {
         sidebarLinkSelector: '.sidebar-link',
         headerAnchorSelector: '.header-anchor'
       }]
-  ]
+    ]
 
 }
