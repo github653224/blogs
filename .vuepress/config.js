@@ -153,7 +153,7 @@ module.exports = {
         sidebarLinkSelector: '.sidebar-link',
         headerAnchorSelector: '.header-anchor'
       }],
-
+     /* 这个动态titile不好看不好用，屏蔽掉
       ['dynamic-title', {
             showIcon: '/favicon.ico',
             showText: '(/≧▽≦/)咦！又好了！',
@@ -161,6 +161,7 @@ module.exports = {
             hideText: '(●—●)喔哟，崩溃啦！',
             recoverTime: 2000,
          }],
+            */
 
       ['sitemap', {
         hostname: 'https://github653224.github.io/blogs/',
