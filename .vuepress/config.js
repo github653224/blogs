@@ -51,7 +51,12 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
-            "text": "me",
+            "text": "简历",
+            "link": "/about/resume/"
+          },
+
+          {
+            "text": "关于我",
             "link": "/about/me/"
           }
         ]
@@ -149,10 +154,16 @@ module.exports = {
         headerAnchorSelector: '.header-anchor'
       }],
 
-      ['dynamic-title'],
+      ['dynamic-title', {
+            showIcon: '/favicon.ico',
+            showText: '(/≧▽≦/)咦！又好了！',
+            hideIcon: '/failure.ico',
+            hideText: '(●—●)喔哟，崩溃啦！',
+            recoverTime: 2000,
+         }],
 
       ['sitemap', {
-        hostname: 'https://github653224.github.io/blogs/'
+        hostname: 'https://github653224.github.io/blogs/',
       }]
 
     ]
