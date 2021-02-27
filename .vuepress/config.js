@@ -143,10 +143,18 @@ module.exports = {
           appKey: 'iq512yWIul3DMGhLzXLyTxjh',
         }
       }],
+
       ['@vuepress/active-header-links', {
         sidebarLinkSelector: '.sidebar-link',
         headerAnchorSelector: '.header-anchor'
+      }],
+
+      ['dynamic-title'],
+
+      ['sitemap', {
+        hostname: 'https://pake.web.id'
       }]
+
     ]
 
 }

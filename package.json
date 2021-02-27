@@ -9,7 +9,11 @@
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.8.2",
     "vuepress": "1.7.1",
+    "vuepress-plugin-dynamic-title": "^1.0.0",
     "vuepress-theme-reco": "1.6.1"
   },
-  "description": "blog of panxueyan"
+  "description": "blog of panxueyan",
+  "dependencies": {
+    "vuepress-plugin-sitemap": "^2.3.1"
+  }
 }
