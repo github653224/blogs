@@ -126,5 +126,10 @@ module.exports = {
   },
   "markdown": {
     "lineNumbers": true
-  }
+  },
+  plugins: ['@vuepress/active-header-links', {
+    sidebarLinkSelector: '.sidebar-link',
+    headerAnchorSelector: '.header-anchor'
+  }]
+
 }
