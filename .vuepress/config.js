@@ -64,6 +64,23 @@ module.exports = {
           }
         ]
       },
+
+      {
+        "text": "留言板",
+        "icon": "reco-message",
+        "items": [
+          {
+            "text": "留言板",
+            "link": "/message/msg/"
+          },
+
+          {
+            "text": "bug曝光台",
+            "link": "/message/bug/"
+          }
+        ]
+      },
+
       {
         "text": "Contact",
         "icon": "reco-message",
@@ -89,7 +106,12 @@ module.exports = {
         "python列表",
         "push_code"
 
+      ],
+
+      "/docs/其他技术教程/": [
+        "",
       ]
+
     },
     "type": "blog",
     "blogConfig": {
@@ -173,7 +195,9 @@ module.exports = {
       // 页面滚动时自动激活侧边栏链接的插件
       ['@vuepress/active-header-links'],
 
-      ['vuepress-plugin-container']
+      ['vuepress-plugin-container'],
+
+      ['flowchart']
 
     ]
 
