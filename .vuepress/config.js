@@ -133,6 +133,12 @@ module.exports = {
     headerAnchorSelector: '.header-anchor'
   }]
   */
-  plugins: ['@vuepress/active-header-links']
+  plugins: [['@vuepress-reco/comments', {
+    solution: 'valine',
+    options: {
+      appId: '...',// your appId
+      appKey: '...', // your appKey
+    }
+  }], ['@vuepress/active-header-links']]
 
 }
