@@ -1,27 +1,14 @@
 ---
-title: 关于我  
+title: 我的简历  
 date: 2021-01-23  
 sidebar: auto  
 tags:
  - about me
+
+
 ---
 
 ## 个人信息
-
-
-<style>
-table th:first-of-type {
-    width: 8cm;
-}
-table th:nth-of-type(2) {
-    width: 150pt;
-}
-table th:nth-of-type(3) {
-    width: 8em;
-}
-</style>
-
-
 - **姓名:**  潘雪岩
 - **出生年月:**  保密
 - **学历:**  统招本科

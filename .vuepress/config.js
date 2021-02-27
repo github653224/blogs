@@ -20,6 +20,9 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    //在所有页面中启用自动生成子侧边栏，原 sidebar 仍然兼容
+    subSidebar: 'auto',
+
     "nav": [
       {
         "text": "Home",
@@ -132,12 +135,6 @@ module.exports = {
   "markdown": {
     "lineNumbers": true
   },
-  /*
-  plugins: ['@vuepress/active-header-links', {
-    sidebarLinkSelector: '.sidebar-link',
-    headerAnchorSelector: '.header-anchor'
-  }]
-  */
 
   plugins: [
 
@@ -162,10 +159,21 @@ module.exports = {
             recoverTime: 2000,
          }],
             */
-
+      // 文章右侧动态地图站点，需要配合在文章加上： sidebar: auto
       ['sitemap', {
         hostname: 'https://github653224.github.io/blogs/',
-      }]
+      }],
+
+      // 进度条
+      ['@vuepress/nprogress'],
+
+      // 代码
+      ['@vuepress-reco/extract-code'],
+
+      // 页面滚动时自动激活侧边栏链接的插件
+      ['@vuepress/active-header-links'],
+
+      ['vuepress-plugin-container']
 
     ]
 
