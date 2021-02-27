@@ -45,7 +45,12 @@ module.exports = {
           {
             "text": "python教程",
             "link": "/docs/python教程/"
+          },
+          {
+            "text": "其他技术教程",
+            "link": "/docs/其他技术教程/"
           }
+
         ]
 
       },
@@ -110,6 +115,7 @@ module.exports = {
 
       "/docs/其他技术教程/": [
         "",
+        "markdown流程图"
       ]
 
     },
