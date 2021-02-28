@@ -121,16 +121,6 @@ module.exports = {
 
     },
 
-    "sidebar": {
-
-      "/docs/python教程/": [
-        "",
-        "python数据结构",
-        "python列表",
-        "push_code"
-      ],
-    },
-
     "type": "blog",
     "blogConfig": {
       "category": {
