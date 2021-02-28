@@ -1,8 +1,8 @@
 ---
 title: 我的简历  
 date: 2021-01-23  
-sidebar: auto   
-tags:  
+sidebar: auto  
+tags:
   - 简历
 
 
