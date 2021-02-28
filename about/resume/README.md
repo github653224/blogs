@@ -1,8 +1,11 @@
 ---
 title: 我的简历  
 date: 2021-01-23  
+sidebar: auto   
 tags:  
   - 简历
+
+
 ---
 
 ## 个人信息
