@@ -58,7 +58,7 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
-            "text": "简历",
+            "text": "我的简历",
             "link": "/about/resume/"
           },
 
