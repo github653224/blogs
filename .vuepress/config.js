@@ -43,7 +43,7 @@ module.exports = {
             "link": "/docs/theme-reco/"
           },
           {
-            "text": "python教程",
+            "text": "python教程系列",
             "link": "/docs/python教程/"
           },
           {
