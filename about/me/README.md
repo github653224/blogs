@@ -3,7 +3,7 @@ title: 关于我
 date: 2021-02-27  
 sidebar: auto  
 tags:
- - about me
+  - about me
 
 ---
 
