@@ -105,6 +105,7 @@ module.exports = {
         "plugin",
         "api"
       ],
+
       "/docs/python教程/": [
         "",
         "python数据结构",

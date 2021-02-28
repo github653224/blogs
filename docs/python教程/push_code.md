@@ -1,6 +1,9 @@
 ---
 title: 更新本地到远程仓库
 date: 2020-01-24
+sidebar: auto
+tags:
+ - python教程
 ---
 
 

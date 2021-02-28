@@ -1,6 +1,9 @@
 ---
-title: python列表操作章节
+title: python列表
 date: 2020-01-24
+sidebar: auto
+tags:
+ - python教程
 ---
 
 
