@@ -1,12 +1,12 @@
 ---
-title: 简历  
-date: 2021-01-23  
-sidebar: auto  
+title: 简历
+date: 2021-03-01
+sidebar: auto
 tags:
   - 简历
 
-
 ---
+
 
 ## 个人信息
 - **姓名:**  潘雪岩
