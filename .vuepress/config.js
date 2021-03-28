@@ -169,9 +169,9 @@ module.exports = {
 
       ['@vuepress-reco/comments', {
         solution: 'valine',
-        choosen: 'valine',
+//        choosen: 'valine',
         options: {
-          el: '#valine-vuepress-comment',
+//          el: '#valine-vuepress-comment',
           appId: 'hGrwbHvwzB7IRwYEp6wnw4Sg-gzGzoHsz',
           appKey: 'iq512yWIul3DMGhLzXLyTxjh',
         }

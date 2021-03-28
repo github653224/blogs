@@ -2,7 +2,7 @@
 title: 关于我  
 date: 2021-01-23  
 sidebar: auto  
-isShowComments: true  
+isShowComments: false  
 tags:
  - 关于我
 
