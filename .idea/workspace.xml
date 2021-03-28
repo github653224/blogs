@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="18031e00-1290-4c7a-910b-c019d79414f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/me/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/about/me/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about/resume/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/about/resume/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
