@@ -115,7 +115,8 @@ module.exports = {
 
       "/docs/其他技术教程/": [
         "",
-        "markdown流程图"
+        "markdown流程图",
+        "easyUI"
       ]
 
     },
