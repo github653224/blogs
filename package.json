@@ -18,6 +18,7 @@
     "vuepress-plugin-dynamic-title": "^1.0.0",
     "vuepress-plugin-flowchart": "1.4.3",
     "vuepress-plugin-one-click-copy": "^1.0.3",
+    "vuepress-plugin-toolbar": "^1.0.1",
     "vuepress-theme-reco": "1.6.1"
   },
   "description": "blog of panxueyan",
