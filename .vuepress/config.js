@@ -212,7 +212,8 @@ module.exports = {
         copyMessage: 'Copy successfully and then paste it for use.', // default is 'Copy successfully and then paste it for use.'
         duration: 300, // prompt message display time.
         showInMobile: false // whether to display on the mobile side, default: false.
-         }]
+         }],
+         ['vuepress-plugin-window']
 
     ]
 
