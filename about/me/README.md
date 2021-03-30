@@ -3,6 +3,7 @@ title: 关于我
 date: 2021-01-23  
 sidebar: auto  
 isShowComments: false  
+sticky: 1
 tags:
  - 关于我
 
