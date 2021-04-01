@@ -13,6 +13,7 @@
     "@vuepress-yard/vuepress-plugin-window": "^1.0.10",
     "@vuepress/plugin-active-header-links": "^1.8.2",
     "@vuepress/plugin-nprogress": "^1.8.2",
+    "@vuepress/plugin-pwa": "^1.8.2",
     "vuepress": "1.7.1",
     "vuepress-plugin-container": "^2.1.5",
     "vuepress-plugin-dynamic-title": "^1.0.0",

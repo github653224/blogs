@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/Cellar/node/15.6.0/bin/node /usr/local/bin/yarn add dynamic-title@latest -D
+  /usr/local/Cellar/node/15.6.0/bin/node /usr/local/bin/yarn add @vuepress/pwa -D
 
 PATH: 
   /usr/local/sbin:/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
@@ -14,7 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/dynamic-title: Not found
+  Error: https://registry.yarnpkg.com/@vuepress%2fpwa: Not found
       at Request.params.callback [as _callback] (/usr/local/lib/node_modules/yarn/lib/cli.js:66988:18)
       at Request.self.callback (/usr/local/lib/node_modules/yarn/lib/cli.js:140662:22)
       at Request.emit (node:events:379:20)
