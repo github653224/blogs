@@ -39,3 +39,5 @@ keys:
    git commit -m 'update'
    git push -f git@github.com:github653224/blogs.git master:blog-br01
    ```
+5. 非常好的把本地图片转换为网络在线地址
+   - https://sm.ms/
