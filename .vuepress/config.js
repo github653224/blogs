@@ -215,7 +215,7 @@ module.exports = {
         showInMobile: false // whether to display on the mobile side, default: false.
          }],
          // 公告插件
-         ['vuepress-plugin-window'],
+         ['@vuepress-yard/vuepress-plugin-window'],
          ["dynamic-title",
               {
                 showIcon: "vuepress/smile.ico",
