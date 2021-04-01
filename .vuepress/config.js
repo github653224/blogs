@@ -216,7 +216,15 @@ module.exports = {
          }],
          // 公告插件
          ['vuepress-plugin-window'],
-         // 右侧边栏
+         ["dynamic-title",
+              {
+                showIcon: "vuepress/smile.ico",
+                showText: "(/≧▽≦/)欢迎帅哥美女！",
+                hideIcon: "vuepress/cry.ico",
+                hideText: "(●—●)呜呜，不要走嘛！！",
+                recoverTime: 2000
+              }
+          ],
 
 
 
