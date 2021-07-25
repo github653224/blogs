@@ -48,6 +48,10 @@ module.exports = {
           {
             "text": "其他技术教程",
             "link": "/docs/其他技术教程/"
+          },
+          {
+            "text": "web自动化测试教程",
+            "link": "/docs/web自动化测试教程/"
           }
 
         ]
@@ -103,6 +107,13 @@ module.exports = {
         "theme",
         "plugin",
         "api"
+      ],
+
+        "/docs/web自动化测试教程/": [
+        "",
+        "01-自动化测试概述",
+        "02-Selenum核心技术",
+
       ],
 
       "/docs/python教程/": [

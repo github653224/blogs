@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18031e00-1290-4c7a-910b-c019d79414f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/web自动化测试教程/01-自动化测试概述.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/web自动化测试教程/02-Selenum核心技术.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/web自动化测试教程/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogs/功能测试/2021/022601.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/功能测试/2021/022601.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +33,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="editorconfig.notification" value="lf;" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/其他技术教程" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/web自动化测试教程" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/web自动化测试教程" />
       <recent name="$PROJECT_DIR$/docs/其他技术教程" />
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/message" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/about" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.vuepress/public/files" />
