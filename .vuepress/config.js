@@ -24,17 +24,17 @@ module.exports = {
     subSidebar: 'auto',
     "nav": [
       {
-        "text": "Home",
+        "text": "首页",
         "link": "/",
         "icon": "reco-home"
       },
       {
-        "text": "TimeLine",
+        "text": "时间线",
         "link": "/timeline/",
         "icon": "reco-date"
       },
       {
-        "text": "Docs",
+        "text": "系列教程",
         "icon": "reco-message",
         "items": [
           {
@@ -129,7 +129,7 @@ module.exports = {
       },
       "tag": {
         "location": 3,
-        "text": "Tag"
+        "text": "标签"
       }
     },
     "friendLink": [
