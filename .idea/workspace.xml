@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18031e00-1290-4c7a-910b-c019d79414f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/其他技术教程/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/vue技术教程/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/其他技术教程/easyUI.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/vue技术教程/easyUI.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/其他技术教程/markdown流程图.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/vue技术教程/markdown流程图.md" afterDir="false" />
+    <list default="true" id="18031e00-1290-4c7a-910b-c019d79414f6" name="Default Changelist" comment="ds">
+      <change afterPath="$PROJECT_DIR$/docs/pytest系列教程/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +36,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="editorconfig.notification" value="lf;" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogs/面试题" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/pytest系列教程" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/pytest系列教程" />
       <recent name="$PROJECT_DIR$/blogs/面试题" />
       <recent name="$PROJECT_DIR$/docs/web自动化测试教程" />
       <recent name="$PROJECT_DIR$/docs/其他技术教程" />
       <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/message" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.vuepress/public/files" />
@@ -68,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1611451268618</updated>
     </task>
+    <task id="LOCAL-00001" summary="ds">
+      <created>1669468957448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669468957448</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -87,5 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ds" />
+    <option name="LAST_COMMIT_MESSAGE" value="ds" />
   </component>
 </project>

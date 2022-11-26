@@ -52,6 +52,10 @@ module.exports = {
           {
             "text": "web自动化测试教程",
             "link": "/docs/web自动化测试教程/"
+          },
+          {
+            "text": "pytest系列教程",
+            "link": "/docs/pytest系列教程/"
           }
 
         ]
