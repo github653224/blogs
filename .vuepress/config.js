@@ -136,8 +136,15 @@ module.exports = {
 
         "/docs/pytest系列教程/": [
         "",
-        "01-pytest概述",
-        "02-pytest安装"
+        "01-pytest概述和安装",
+        "02-pytest使用",
+        "03-pytest执行方式",
+        "04-pytest运行规则",
+        "05-pytest断言",
+        "06-pytest标记",
+        "07-pytest数据参数化",
+        "08-pytest常用插件",
+        "09-pytest案例实践"
       ]
 
     },
