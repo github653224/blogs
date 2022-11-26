@@ -11,4 +11,3 @@ sidebar: auto
 ### [pytest官方文档](https://docs.pytest.org/en/7.2.x/contents.html)
 
 #### 阅读pdf
-![Alt pytest pdf](../../.vuepress/public/files/pytest.pdf)
