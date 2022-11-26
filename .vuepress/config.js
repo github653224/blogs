@@ -47,7 +47,7 @@ module.exports = {
           },
           {
             "text": "vue技术教程",
-            "link": "/docs/其他技术教程/"
+            "link": "/docs/vue技术教程/"
           },
           {
             "text": "web自动化测试教程",
@@ -128,10 +128,16 @@ module.exports = {
 
       ],
 
-      "/docs/其他技术教程/": [
+      "/docs/vue技术教程/": [
         "",
         "markdown流程图",
         "easyUI"
+      ],
+
+        "/docs/pytest系列教程/": [
+        "",
+        "01-pytest概述",
+        "02-pytest安装"
       ]
 
     },
