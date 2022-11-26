@@ -46,7 +46,7 @@ module.exports = {
             "link": "/docs/python教程/"
           },
           {
-            "text": "其他技术教程",
+            "text": "vue技术教程",
             "link": "/docs/其他技术教程/"
           },
           {
