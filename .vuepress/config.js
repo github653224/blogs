@@ -140,7 +140,7 @@ module.exports = {
         "02-pytest使用",
         "03-pytest执行方式",
         "04-pytest运行规则",
-        "05-pytest断言",
+        "05-pytest自定义运行规则",
         "06-pytest标记",
         "07-pytest数据参数化",
         "08-pytest常用插件",
