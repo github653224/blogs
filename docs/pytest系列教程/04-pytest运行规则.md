@@ -1,9 +1,9 @@
 ---
-title: 04-pytest运行规则.
-date: 2022-11-26
-tags:
- - pytest
-sidebar: auto
+title: 04-pytest运行规则  
+date: 2022-11-26  
+tags:  
+ - pytest  
+sidebar: auto  
 ---
 
 ## test
