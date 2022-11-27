@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18031e00-1290-4c7a-910b-c019d79414f6" name="Default Changelist" comment="ds">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pytest系列教程/01-pytest概述和安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pytest系列教程/01-pytest概述和安装.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pytest系列教程/02-pytest使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pytest系列教程/02-pytest使用.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pytest系列教程/03-pytest执行方式.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pytest系列教程/03-pytest执行方式.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pytest系列教程/04-pytest运行规则.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pytest系列教程/04-pytest运行规则.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pytest系列教程/05-pytest断言.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pytest系列教程/05-pytest断言.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pytest系列教程/05-pytest断言.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pytest系列教程/05-pytest自定义运行规则.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pytest系列教程/06-pytest标记.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pytest系列教程/06-pytest标记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pytest系列教程/07-pytest数据参数化.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pytest系列教程/07-pytest数据参数化.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pytest系列教程/08-pytest常用插件.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pytest系列教程/08-pytest常用插件.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pytest系列教程/09-pytest案例实践.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pytest系列教程/09-pytest案例实践.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pytest系列教程/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pytest系列教程/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
