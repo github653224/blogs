@@ -1,30 +1,81 @@
 ---
-title: 我的简历  
-date: 2021-01-23  
-sidebar: auto 
-
+title: 潘雪岩的简历   
+date: 2023-05-05   
+sidebar: auto
 
 ---
 
 
-::: tip 个人信息  
-- **姓名:**  潘雪岩
-- **出生年月:**  保密
-- **学历:**  统招本科
-- **专业:**  工商管理
-- **辅修:**  计算机与信息技术
-- **学位：**   双学士学位
-- **现住址:**  北京市昌平区
-- **籍贯:**  保密  
-:::
-  
+### 个人信息  
 
-## 联系方式
-* **手机:**  保密
-* **Email:**  944851899@qq.com
+<style>
+table{
+  border: none;
+}
+
+tr,td {
+  border: none!important;
+}
+
+.td_right{
+  text-justify: distribute-all-lines;
+  text-align: justify;
+  text-align-last:justify;
+  font-weight: bold;
+}
+
+</style>
 
 
-## 职业发展方向
+<table>
+
+<tr >
+  <td class="td_right">姓名:</td>
+ 
+  <td width="200px">潘雪岩</td>
+
+  <td class="td_right">性别:</td>
+  <td width="200px">男</td>
+</tr> 
+
+<tr>
+  <td class="td_right" width="100px">出生日期:</td>
+  <td width="200px">1987.08</td>
+
+  <td class="td_right" width="100px">现住地址:</td>
+  <td width="200px">北京昌平</td>
+</tr>
+
+<tr>
+  <td class="td_right" width="100px">毕业院校:</td>
+  <td width="200px">绍兴纹理学院</td>
+
+  <td class="td_right" width="100px">学历:</td>
+  <td width="200px">统招本科</td>
+</tr>
+
+<tr>
+  <td class="td_right" width="100px">专业:</td>
+  <td width="200px">工商管理，国贸</td>
+
+  <td class="td_right" width="100px">学位:</td>
+  <td width="200px">双学士学位</td>
+</tr>
+
+<tr>
+  <td class="td_right" width="100px">联系电话:</td>
+  <td width="200px">15210142165</td>
+
+  <td class="td_right" width="100px">电子邮箱:</td>
+  <td width="200px">944851899@qq.com</td>
+</tr>
+
+</table>
+
+
+
+
+### 职业发展方向
 - **测试开发工程师**
 - **UI/APP自动化测试工程师**
 - **性能测试工程师**
@@ -32,7 +83,7 @@ sidebar: auto
 - **客户端专项测试工程师**
 
 
-## 个人技术栈:
+### 个人技术栈:
 > 自动化测试经验：
 - 熟悉企业软件开发，测试流程和规范，能够深层次理解需求，在项目各个阶段及时发现问题及风险并推进解决，熟悉Jira，禅道等缺陷管理工具。
 - 熟悉Python + Robot framework （Selenium Web driver）+ Pytest + Jenkins + Allure自动测试框架编写WEB UI自动测试脚本； 

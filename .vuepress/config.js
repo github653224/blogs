@@ -247,7 +247,7 @@ module.exports = {
          ["dynamic-title",
               {
                 showIcon: "vuepress/smile.ico",
-                showText: "(/≧▽≦/)欢迎帅哥美女！",
+                showText: "(/≧▽≦/)欢迎来到潘雪岩的博客！",
                 hideIcon: "vuepress/cry.ico",
                 hideText: "(●—●)呜呜，不要走嘛！！",
                 recoverTime: 2000
