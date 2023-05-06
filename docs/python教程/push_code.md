@@ -39,7 +39,10 @@ publish: true
    git init
    git add -A
    git commit -m 'update'
+   git branch -m main blog-br01
    git push -f git@github.com:github653224/blogs.git master:blog-br01
    ```
 5. 非常好的把本地图片转换为网络在线地址
+   - https://zhuanlan.zhihu.com/p/201347765
    - https://sm.ms/
+   - https://imgse.com/
