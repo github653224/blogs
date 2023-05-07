@@ -134,7 +134,7 @@ hr{ border: 1px solid #a3aab1;}
 
   <tr>
     <td class="td_right">2013.10-2016.10</td>
-    <td width="200px">上海艾融软件股份有限公司</td>
+    <td width="200px">上海艾融软件股份有限公司（外派工商银行）</td>
     <td width="210px">测试工程师</td>
   </tr>
 
@@ -216,6 +216,357 @@ hr{ border: 1px solid #a3aab1;}
 <hr>
 
 ### 个人履历简述  
+
+<table>
+  <tr>
+    <td class="td_left">北京沃东天骏信息技术有限公司</td>
+    <td width="200px" class="td_left">2021.10 ~ 2023.05</td>
+    <td width="200px">测试开发工程师</td>
+  </tr> 
+  <tr><td class="td_left">内容：</td></tr>
+  <tr >
+    <td colspan="3">
+      1. 负责广告系统相关的服务端，web  端及客户端的质量保证，包括功能测试，接口测试，性能测试及自动化测试。
+    </td>
+  </tr>
+
+<tr >
+    <td colspan="3">
+      2. 根据业务测试流程特点及痛点，通过自动化脚本打通集团 Devops  流水线工具，代替人工频繁执行的手工测试，简化测试流程来提高测试效率。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      3. 编写实用的自动化测试脚本工具来服务业务测试，探索新技术引入到项目工作中，与测试团队分享实践经验。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      4. 测试环境治理，通过流水线结合自动化测试脚本定期同步线上表数据到测试环境，部署搭建测试环境，仿真线上使用场景在测试环境测试及时发现定位问题，积极推动配合研发修复问题。
+    </td>
+</tr>
+
+  <tr><td class="td_left">业绩：</td></tr>
+  <tr >
+    <td colspan="3">
+      1. 入职以来从未出现因为延期漏测等原因出现线上事故导致的客诉。
+    </td>
+  </tr>
+
+<tr >
+    <td colspan="3">
+      2. 提效工具开发-Devops  流水线建设：接口自动化，输出了可行的能实际落地自动化测试方案并组织在组内进行分享，得到领导和同事的认可。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      3. 提效工具开发-Devops  流水线建设：日志流系统流水线建设，提高测试效率节省1~2人力，实现代码提交全程无人工干预自动化测试流程，在某种程度上提高了测试效率。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      4. 提效工具开发-Devops  流水线建设：用户更新流流水线建设，探索某一类问题的通用解决方案并形成文档发表至公司技术期刊，为遇到和我一类问题的人提供了解决思路，发现 CICD  平台多处 bug  和优化的功能项，得到平台认可并给与100元京东E奖励。
+    </td>
+</tr>
+
+</table>
+
+<hr>
+
+
+<table>
+  <tr>
+    <td class="td_left">浩鲸云计算科技股份有限公司</td>
+    <td width="200px" class="td_left">2019.03 ~ 2021.10</td>
+    <td width="200px">自动化测试工程师</td>
+  </tr> 
+  <tr><td class="td_left">内容：</td></tr>
+  <tr >
+    <td colspan="3">
+      1. 负责配合测试团队优化测试流程，制定测试管理制度，规范标准化测试文档，完善测试知识库，为团队测试人员技术赋能。
+    </td>
+  </tr>
+
+<tr >
+    <td colspan="3">
+      2. 负责横向支撑冲刺重点项目的功能验证和上线，包括深层次理解需求，功能测试，接口测试，性能测试等，测试驱动研发，及时暴露问题及时解决问题。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      3. 专职负责落地公司自动化测试，编制自动化测试方案，编写维护自动化测试脚本，持续集成，定时输出自动化测试报告，使用的技术及框架：python+pytest+selenium+allure+jenkins ，工具 pycharm。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      4. 专职负责项目上线前的性能测试，编制性能测试方案，测试用例，设计测试场景，使用 jmeter  编写性能测试脚本，nmon或 server agent  监控资源情况，检查系统运行，收集日志，发现异常分析定位性能瓶颈，给出优化建议输出测试报告。使用到的技术：jmeter+java+Nmon+JVM monotor。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      5. 负责移动端 app  的专项测试及安全测试，使用到的技术和工具有：python+adb+monkey+perfdog+charles / drozer+mobileSF。
+    </td>
+</tr>
+
+  <tr><td class="td_left">业绩：</td></tr>
+  <tr >
+    <td colspan="3">
+      1. 历时一年零5个月，从0到1，从无到有，带领测试小团队冲刺上线中国电信新销售平台多个里程碑功能，如期上线直至维稳，得到领导一致好评和奖赏。
+    </td>
+  </tr>
+
+<tr >
+    <td colspan="3">
+      2. 成功落地自动化测试，定期为测试团队技术赋能，提高测试效率，优化测试流程。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      3. 横向支撑为测试团队的建立打下基础。
+    </td>
+</tr>
+</table>
+
+<hr>
+
+
+<table>
+  <tr>
+    <td class="td_left">爱立信（中国）通信有限公司</td>
+    <td width="200px" class="td_left">2016.10 ~ 2019.02</td>
+    <td width="200px">Python开发工程师</td>
+  </tr> 
+
+  <tr><td class="td_left">内容一：</td></tr>
+  <tr >
+    <td colspan="3">
+      1. 到 Work tile  上领取任务，结合日本那边给的英文 TI（Test instructions ）需求，分析功能需求和测试目的，了解相关的技术和命令，确定要编写的 Keyword  的功能，编写自动化测试脚本。
+    </td>
+  </tr>
+
+<tr >
+    <td colspan="3">
+      2. 根据 Work tile  上的英文需求，使用 robotframework  框架 code Keyword。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      3. Code finish后使用Git上传代码到远程服务器，测试测试KW功能。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      4. 早会分享自己遇到的问题和一些问题解决方案以及工作进展。 
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      5. 每隔两周展示自己这段时间的工作内容，日本测试团队 review code  以及提出建议意见，修改相关的缺陷。 
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      6. KW  开发完成，组织开发 TI ，测试 TI  功能，找日本那边验收 code。 
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      7. 解决开发过程中遇到的问题，学习与项目相关的新技术，验证自己的代码. 
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      8. 使用自己开发的 KW和 TI对 WEB GUI 、服务端以及接口等进行测试验证 KW和 TI  功能，发现问题，定位问题，分析问题，解决问题。 
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      9. 总结工作内容，记录工作中解决问题的方法和技术。 
+    </td>
+</tr>
+
+  <tr><td class="td_left">内容二：</td></tr>
+  <tr >
+    <td colspan="3">
+      1. 该项主要负责后段服务的研发，使用 Django+python+UWSGUI+Pycharm及 python 第三方库编写应用，与前段集成联调测试。
+    </td>
+  </tr>
+
+<tr >
+    <td colspan="3">
+      2. 理解需求 LLD、HLD  等接口计文档。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      3. 开发后段 server  所需要的功能应用模块，包括处理请求参数，数据处理，异处理，接口逻辑的处理等。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      4. 自测接口，提供单元测试报告，提交代码使用 jenkins  集成构建发布应用。 
+    </td>
+</tr>
+
+
+
+  <tr><td class="td_left">内容三：</td></tr>
+  <tr >
+    <td colspan="3">
+      1. 根据邮件需求并与领导沟通确定实现的方案。
+    </td>
+  </tr>
+
+<tr >
+    <td colspan="3">
+      2. 开始脚本开发，使用 python  以及相关的库实现远程登录服务器并执行相关命令收集所需要的信息，处理信息并生成 HTML  报告，对过了七天的文件进行删除等。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      3. 在服务器上调试测试，测试成功与领导沟通交付代码和运行最终代码所需要的环境配置方法。
+    </td>
+</tr>
+
+
+  <tr><td class="td_left">业绩：</td></tr>
+  <tr >
+    <td colspan="3">
+      1. 顺利完成爱立信项目自动化测试的落地与应用，节省了大量的人力和运维成本。
+    </td>
+  </tr>
+
+<tr >
+    <td colspan="3">
+      2. 如期完成项目 BE  功能的研发，和 FE  联调测试，保证项目顺利上线；
+    </td>
+</tr>
+</table>
+
+<hr>
+
+<table>
+  <tr>
+    <td class="td_left">中国工商银行股份有限公司北京研发中心二部</td>
+    <td width="200px" class="td_left">2013.10 ~ 2016.10</td>
+    <td width="200px">测试工程师</td>
+  </tr> 
+  <tr><td class="td_left">内容：</td></tr>
+  <tr >
+    <td colspan="3">
+      1. 在职期间担任B2C项目组测试小组长，为新员工装工行办公系统并配置测试环境，讲解B2C项目整体情况，熟悉办公环境。
+    </td>
+  </tr>
+
+<tr >
+    <td colspan="3">
+      2. 负责审批小组成员的出勤情况并向上级汇报，并配合领导安排工作。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      3. 分析产品需求并参与需求评审给出相应建议。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      4. 根据业务需求编写被测模块功能测试用例。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      5. 负责平台 web  端每期迭代项目的冒烟测试和详细测试、UI  界面测试、系统测试以及回归测试。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      6. 负责平台 IOS  和安卓 APP  移动端每期迭代的功能测试、兼容性测试、易用性等测试。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      7. 提交缺陷和开发沟通解决办法，跟踪 Bug  直至缺陷关闭。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      8. 负责 web  端和手机 app  端的自动测试,主要用的是 java+selenium/java+Appium + Jenkins+Ant。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      9. 移动端迭代功能测试和自动化脚本编写并发现问题，追踪 bug  和开发沟通解决办法回归测试直至 bug  关闭。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      10. 负责融e购移动平台安卓和 IOS  系统手机，迭代产功能测试、UI  界面测试、兼容性测试和系统测试
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      11. 编写移动手机app自动化测试脚本(java+Appium+jenkins+ant)。
+    </td>
+</tr>
+
+
+  <tr><td class="td_left">测试过的专项：</td></tr>
+  <tr >
+    <td colspan="3">
+      商城活动（活动包括：满减、满送、包邮、大型活动、商户限时抢购、预售、首单立减、搭售、赠品、集团购、集中采购、秒杀、限时抢购、团购）、手机充值、商城交易监控、跨境购、支付和账单对账等测试。这些包括在商户中心、运营中心、购物中心整个购物流程中的各个功能点的测试，所有这些都要进行 PC  和手机端的测试以及兼容性测试。
+    </td>
+  </tr>
+
+
+
+  <tr><td class="td_left">业绩：</td></tr>
+  <tr >
+    <td colspan="3">
+      1. 取得工行测试小组和开发组的综合评分最佳主动奖;
+    </td>
+  </tr>
+
+<tr >
+    <td colspan="3">
+      2. 有效 bug  数提的最多，被评为优秀员工;
+    </td>
+</tr>
+
+
+</table>
+
+<hr>
+
+
+
+### 个人简介
 
 > 本人从毕业之后一直从事软件测试相关的工作，做过功能测试及测试leader，做过接口开发，做过UI自动化测试,接口自动化测试，服务性能测试以及客户端的专项测试，
   有一定的自动化测试经验和性能测试经验;
