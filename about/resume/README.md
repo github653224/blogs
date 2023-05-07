@@ -194,17 +194,17 @@ hr{ border: 1px solid #a3aab1;}
 <p>3. 熟悉开源自动化测试框架：Python+RF/Requests/Appium/Selenium/+Pytest+Allure+Jenkins编写服务端/移动端/UI自动化测试脚本结合CI/CD工具持续测试，有设计封装PageObject自动化测试框架并落地实践经验。</p>
 
 
-> sql&Linux经验：  
+> SQL&Linux经验：  
 
 
-<p>1. 熟悉MySQL、SQL Server、Oracle等主流数据库，有一定的SQL功底，如CRUD，数据导入导出备份，索引，SQL性能优化分析等。</p>
-<p>2. 熟悉Linux系统常用命令及shell脚本语言，了解Nginx, tomcat web服务容器， Redis等服务中间件的使用，能使用shell编写测试脚本辅助业务测试提效等。</p>
+<p>1. 熟悉MySQL、SQL Server、Oracle等主流数据库，有一定的SQL功底，如CRUD、数据导入导出备份、索引，SQL性能优化分析等。</p>
+<p>2. 熟悉Linux系统常用命令及shell脚本语言，了解Nginx, Tomcat web服务容器， Redis等服务中间件的使用，能使用shell编写测试脚本辅助业务测试提效等。</p>
 
 > 专项及性能测试经验：  
 
-<p>1. 熟悉服务端和移动端性能测试流程，可编制性能测试方案，编写性能测试脚本，对服务端和客户端进行性能压测及定位系统性能问题，测试工具链JMeter + Grafana, Perf Dog + Monkey+ADB。</p>
+<p>1. 熟悉服务端和移动端性能测试流程，可编制性能测试方案，性能测试脚本，对服务端和客户端进行性能压测及定位系统性能问题，测试工具链JMeter+Grafana+InfluxDB, SoloPi/PerfDog+Monkey+ADB。</p>
 <p>2. 熟悉移动端专项测试方法流程和测试标准，了解web端和移动端安全相关的测试，可编制测试方案，对web端和移动做安全测试并输出安全测试报告。</p>
-<p>3. 熟悉流量抓包工具Charles/Burp suite及接口测试工具Postman/JMeter，可以对接口返回数据经行截取，篡改，mock模拟真实数据测试接口，模拟弱网测试，抓取报错日志排查问题。</p>
+<p>3. 熟悉流量抓包工具Charles/Burp suite及接口测试工具Postman/JMeter，可以对接口返回数据经行截取、篡改并mock模拟真实数据测试接口，模拟弱网测试，抓取报错日志排查问题。</p>
 
 
 > 开发语言及其他：  
@@ -226,13 +226,13 @@ hr{ border: 1px solid #a3aab1;}
   <tr><td class="td_left" colspan="3">内容：</td></tr>
   <tr >
     <td colspan="3">
-      1. 负责广告系统相关的服务端，web  端及客户端的质量保证，包括功能测试，接口测试，性能测试及自动化测试。
+      1. 负责广告系统相关的服务端，web端及客户端的质量保证，包括功能测试，接口测试，性能测试及自动化测试。
     </td>
   </tr>
 
 <tr >
     <td colspan="3">
-      2. 根据业务测试流程特点及痛点，通过自动化脚本打通集团 Devops  流水线工具，代替人工频繁执行的手工测试，简化测试流程来提高测试效率。
+      2. 根据业务测试流程特点及痛点，通过自动化脚本打通集团Devops流水线工具，代替人工频繁执行的手工测试，简化测试流程来提高测试效率。
     </td>
 </tr>
 
@@ -257,19 +257,19 @@ hr{ border: 1px solid #a3aab1;}
 
 <tr >
     <td colspan="3">
-      2. 提效工具开发-Devops  流水线建设：接口自动化，输出了可行的能实际落地自动化测试方案并组织在组内进行分享，得到领导和同事的认可。
+      2. 提效工具开发-Devops流水线建设：接口自动化，输出了可行的能实际落地自动化测试方案并组织在组内进行分享，得到领导和同事的认可。
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
-      3. 提效工具开发-Devops  流水线建设：日志流系统流水线建设，提高测试效率节省1~2人力，实现代码提交全程无人工干预自动化测试流程，在某种程度上提高了测试效率。
+      3. 提效工具开发-Devops流水线建设：日志流系统流水线建设，提高测试效率节省1~2人力，实现代码提交全程无人工干预自动化测试流程，在某种程度上提高了测试效率。
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
-      4. 提效工具开发-Devops  流水线建设：用户更新流流水线建设，探索某一类问题的通用解决方案并形成文档发表至公司技术期刊，为遇到和我一类问题的人提供了解决思路，发现 CICD  平台多处 bug  和优化的功能项，得到平台认可并给与100元京东E奖励。
+      4. 提效工具开发-Devops  流水线建设：用户更新流流水线建设，探索某一类问题的通用解决方案并形成文档发表至公司技术期刊，为遇到和我一类问题的人提供了解决思路，发现CICD平台多处bug和优化的功能项，反馈给平台得到其团队研发认可并给与100元京东E奖励。
     </td>
 </tr>
 
@@ -299,19 +299,19 @@ hr{ border: 1px solid #a3aab1;}
 
 <tr >
     <td colspan="3">
-      3. 专职负责落地公司自动化测试，编制自动化测试方案，编写维护自动化测试脚本，持续集成，定时输出自动化测试报告，使用的技术及框架：python+pytest+selenium+allure+jenkins ，工具 pycharm。
+      3. 专职负责落地公司自动化测试，编制自动化测试方案，编写维护自动化测试脚本，持续集成，定时输出自动化测试报告，使用的技术及框架：python+pytest+selenium+allure+jenkins ，工具pycharm。
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
-      4. 专职负责项目上线前的性能测试，编制性能测试方案，测试用例，设计测试场景，使用 jmeter  编写性能测试脚本，nmon或 server agent  监控资源情况，检查系统运行，收集日志，发现异常分析定位性能瓶颈，给出优化建议输出测试报告。使用到的技术：jmeter+java+Nmon+JVM monotor。
+      4. 专职负责项目上线前的性能测试，编制性能测试方案，测试用例，设计测试场景，使用jmeter编写性能测试脚本，Nmon或server agent监控资源情况，检查系统运行，收集日志，发现异常分析定位性能瓶颈，给出优化建议输出测试报告。使用到的技术：jmeter+java+Nmon+JVM monotor。
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
-      5. 负责移动端 app  的专项测试及安全测试，使用到的技术和工具有：python+adb+monkey+perfdog+charles / drozer+mobileSF。
+      5. 负责移动端app的专项测试及安全测试，使用到的技术和工具有：python+adb+monkey+PerfDog+charles/drozer+mobileSF。
     </td>
 </tr>
 
@@ -330,7 +330,7 @@ hr{ border: 1px solid #a3aab1;}
 
 <tr >
     <td colspan="3">
-      3. 横向支撑为测试团队的建立打下基础。
+      3. 横向支撑为测试团队的建立打下夯实的基础。
     </td>
 </tr>
 </table>
@@ -348,13 +348,13 @@ hr{ border: 1px solid #a3aab1;}
   <tr><td class="td_left" colspan="3">内容一：</td></tr>
   <tr >
     <td colspan="3">
-      1. 到 Work tile  上领取任务，结合日本那边给的英文 TI（Test instructions ）需求，分析功能需求和测试目的，了解相关的技术和命令，确定要编写的 Keyword  的功能，编写自动化测试脚本。
+      1. 到WorkTile上领取任务，结合日本那边给的英文TI（Test instructions ）需求，分析功能需求和测试目的，了解相关的技术和命令，确定要编写的Keyword的功能，编写自动化测试脚本。
     </td>
   </tr>
 
 <tr >
     <td colspan="3">
-      2. 根据 Work tile  上的英文需求，使用 robotframework  框架 code Keyword。
+      2. 根据WorkTile上的英文需求，使用robotframework框架 code Keyword。
     </td>
 </tr>
 
@@ -372,13 +372,13 @@ hr{ border: 1px solid #a3aab1;}
 
 <tr >
     <td colspan="3">
-      5. 每隔两周展示自己这段时间的工作内容，日本测试团队 review code  以及提出建议意见，修改相关的缺陷。 
+      5. 每隔两周展示自己这段时间的工作内容，日本测试团队review code以及提出建议意见，修改相关的缺陷。 
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
-      6. KW  开发完成，组织开发 TI ，测试 TI  功能，找日本那边验收 code。 
+      6. KW开发完成，组织开发TI，测试TI功能，找日本那边验收code。 
     </td>
 </tr>
 
@@ -390,7 +390,7 @@ hr{ border: 1px solid #a3aab1;}
 
 <tr >
     <td colspan="3">
-      8. 使用自己开发的 KW和 TI对 WEB GUI 、服务端以及接口等进行测试验证 KW和 TI  功能，发现问题，定位问题，分析问题，解决问题。 
+      8. 使用自己开发的KW和TI对WEB GUI、服务端以及接口等进行测试验证KW和TI功能，发现问题，定位问题，分析问题，解决问题。 
     </td>
 </tr>
 
@@ -409,19 +409,19 @@ hr{ border: 1px solid #a3aab1;}
 
 <tr >
     <td colspan="3">
-      2. 理解需求 LLD、HLD  等接口计文档。
+      2. 理解需求 LLD、HLD等接口计文档。
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
-      3. 开发后段 server  所需要的功能应用模块，包括处理请求参数，数据处理，异处理，接口逻辑的处理等。
+      3. 开发后段server所需要的功能应用模块，包括处理请求参数，数据处理，异处理，接口逻辑的处理等。
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
-      4. 自测接口，提供单元测试报告，提交代码使用 jenkins  集成构建发布应用。 
+      4. 自测接口，提供单元测试报告，提交代码使用jenkins集成构建发布应用。 
     </td>
 </tr>
 
@@ -436,7 +436,7 @@ hr{ border: 1px solid #a3aab1;}
 
 <tr >
     <td colspan="3">
-      2. 开始脚本开发，使用 python  以及相关的库实现远程登录服务器并执行相关命令收集所需要的信息，处理信息并生成 HTML  报告，对过了七天的文件进行删除等。
+      2. 开始脚本开发，使用 python  以及相关的库实现远程登录服务器并执行相关命令收集所需要的信息，处理信息并生成HTML报告，对过了七天的文件进行删除等。
     </td>
 </tr>
 
@@ -456,7 +456,7 @@ hr{ border: 1px solid #a3aab1;}
 
 <tr >
     <td colspan="3">
-      2. 如期完成项目 BE  功能的研发，和 FE  联调测试，保证项目顺利上线；
+      2. 如期完成项目BE功能的研发，和FE联调测试，保证项目顺利上线；
     </td>
 </tr>
 </table>
@@ -496,37 +496,37 @@ hr{ border: 1px solid #a3aab1;}
 
 <tr >
     <td colspan="3">
-      5. 负责平台 web  端每期迭代项目的冒烟测试和详细测试、UI  界面测试、系统测试以及回归测试。
+      5. 负责平台web端每期迭代项目的冒烟测试和详细测试、UI  界面测试、系统测试以及回归测试。
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
-      6. 负责平台 IOS  和安卓 APP  移动端每期迭代的功能测试、兼容性测试、易用性等测试。
+      6. 负责平台IOS和安卓APP移动端每期迭代的功能测试、兼容性测试、易用性等测试。
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
-      7. 提交缺陷和开发沟通解决办法，跟踪 Bug  直至缺陷关闭。
+      7. 提交缺陷和开发沟通解决办法，跟踪Bug直至缺陷关闭。
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
-      8. 负责 web  端和手机 app  端的自动测试,主要用的是 java+selenium/java+Appium + Jenkins+Ant。
+      8. 负责web端和手机app端的自动测试,主要用的是java+selenium/java+Appium+Jenkins+Ant。
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
-      9. 移动端迭代功能测试和自动化脚本编写并发现问题，追踪 bug  和开发沟通解决办法回归测试直至 bug  关闭。
+      9. 移动端迭代功能测试和自动化脚本编写并发现问题，追踪bug和开发沟通解决办法回归测试直至bug关闭。
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
-      10. 负责融e购移动平台安卓和 IOS  系统手机，迭代产功能测试、UI  界面测试、兼容性测试和系统测试
+      10. 负责融e购移动平台安卓和IOS系统手机，迭代产功能测试、UI界面测试、兼容性测试和系统测试
     </td>
 </tr>
 
@@ -555,7 +555,7 @@ hr{ border: 1px solid #a3aab1;}
 
 <tr >
     <td colspan="3">
-      2. 有效 bug  数提的最多，被评为优秀员工;
+      2. 有效bug数提的最多，被评为优秀员工;
     </td>
 </tr>
 
