@@ -1,5 +1,5 @@
 ---
-title: 潘雪岩的简历   
+title: 潘雪岩的微简历   
 date: 2023-05-05   
 sidebar: auto
 
@@ -27,7 +27,7 @@ tr,td {
 .td_left{
   font-weight: bold;
   text-align: left;
-  text-align-last:justify;
+  
 }
 
 </style>
@@ -146,8 +146,8 @@ tr,td {
 <table>
 <tr>
     <td>1.</td>
-    <td class="td_left">技能证书</td>
-    <td>英语六级证书，软考证书</td>
+    <td class="td_left" width="110">技能证书</td>
+    <td>英语六级证书，软考证书，人人三小时公益证书</td>
     <td width="200px">能熟练阅读英文IT资料和外文IT技术论坛来解决实际工作中遇到的问题</td>
   </tr>
 
