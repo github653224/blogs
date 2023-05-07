@@ -222,3 +222,33 @@ tr,td {
     </tbody>
 </table>
 
+
+### 好用的markdown语法---html P标签段落 CSS段落间距距离调整
+一、line-height行高
+
+我们对line-height的值设置越大，段落间距将会增大，同时字与字行距也会增加，不推荐用此line-height样式设置。
+
+css代码：p{line-height:22px}
+
+二、css padding内补白（内边距）
+
+可以推荐使用padding设置段落上下间距。通过设置上下内补白，内距离即可实现p段落上下间距设置。
+
+css代码：p{padding:10px 0}
+
+三、css margin外边距
+
+CSS段落间距调整之margin实现上下段落之间间距距离样式设置，我们知道margin是设置上下左右对象与对象之间距离设置，这里段落也可以使用此css样式实现间距。
+
+css代码：p{margin:10px 0}
+
+四、段落间距总结
+
+网站文章分段，一般使用html p标签，而对分段间距设置我们推荐使用padding和margin实现，这样可轻松调间距距离，实现段与段之间距离排版美化。
+
+
+### 好用的网站
+
+- 颜色网： https://encycolorpedia.cn/named
+- 
+
