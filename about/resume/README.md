@@ -223,7 +223,7 @@ hr{ border: 1px solid #a3aab1;}
     <td width="200px" class="td_left">2021.10 ~ 2023.05</td>
     <td width="200px">测试开发工程师</td>
   </tr> 
-  <tr><td class="td_left">内容：</td></tr>
+  <tr><td class="td_left" colspan="3">内容：</td></tr>
   <tr >
     <td colspan="3">
       1. 负责广告系统相关的服务端，web  端及客户端的质量保证，包括功能测试，接口测试，性能测试及自动化测试。
@@ -248,7 +248,7 @@ hr{ border: 1px solid #a3aab1;}
     </td>
 </tr>
 
-  <tr><td class="td_left">业绩：</td></tr>
+  <tr><td class="td_left" colspan="3">业绩：</td></tr>
   <tr >
     <td colspan="3">
       1. 入职以来从未出现因为延期漏测等原因出现线上事故导致的客诉。
@@ -284,7 +284,7 @@ hr{ border: 1px solid #a3aab1;}
     <td width="200px" class="td_left">2019.03 ~ 2021.10</td>
     <td width="200px">自动化测试工程师</td>
   </tr> 
-  <tr><td class="td_left">内容：</td></tr>
+  <tr><td class="td_left" colspan="3">内容：</td></tr>
   <tr >
     <td colspan="3">
       1. 负责配合测试团队优化测试流程，制定测试管理制度，规范标准化测试文档，完善测试知识库，为团队测试人员技术赋能。
@@ -315,7 +315,7 @@ hr{ border: 1px solid #a3aab1;}
     </td>
 </tr>
 
-  <tr><td class="td_left">业绩：</td></tr>
+  <tr><td class="td_left" colspan="3">业绩：</td></tr>
   <tr >
     <td colspan="3">
       1. 历时一年零5个月，从0到1，从无到有，带领测试小团队冲刺上线中国电信新销售平台多个里程碑功能，如期上线直至维稳，得到领导一致好评和奖赏。
@@ -345,7 +345,7 @@ hr{ border: 1px solid #a3aab1;}
     <td width="200px">Python开发工程师</td>
   </tr> 
 
-  <tr><td class="td_left">内容一：</td></tr>
+  <tr><td class="td_left" colspan="3">内容一：</td></tr>
   <tr >
     <td colspan="3">
       1. 到 Work tile  上领取任务，结合日本那边给的英文 TI（Test instructions ）需求，分析功能需求和测试目的，了解相关的技术和命令，确定要编写的 Keyword  的功能，编写自动化测试脚本。
@@ -400,7 +400,7 @@ hr{ border: 1px solid #a3aab1;}
     </td>
 </tr>
 
-  <tr><td class="td_left">内容二：</td></tr>
+  <tr><td class="td_left" colspan="3">内容二：</td></tr>
   <tr >
     <td colspan="3">
       1. 该项主要负责后段服务的研发，使用 Django+python+UWSGUI+Pycharm及 python 第三方库编写应用，与前段集成联调测试。
@@ -427,7 +427,7 @@ hr{ border: 1px solid #a3aab1;}
 
 
 
-  <tr><td class="td_left">内容三：</td></tr>
+  <tr><td class="td_left" colspan="3">内容三：</td></tr>
   <tr >
     <td colspan="3">
       1. 根据邮件需求并与领导沟通确定实现的方案。
@@ -447,7 +447,7 @@ hr{ border: 1px solid #a3aab1;}
 </tr>
 
 
-  <tr><td class="td_left">业绩：</td></tr>
+  <tr><td class="td_left" colspan="3">业绩：</td></tr>
   <tr >
     <td colspan="3">
       1. 顺利完成爱立信项目自动化测试的落地与应用，节省了大量的人力和运维成本。
@@ -469,7 +469,7 @@ hr{ border: 1px solid #a3aab1;}
     <td width="200px" class="td_left">2013.10 ~ 2016.10</td>
     <td width="200px">测试工程师</td>
   </tr> 
-  <tr><td class="td_left">内容：</td></tr>
+  <tr><td class="td_left" colspan="3">内容：</td></tr>
   <tr >
     <td colspan="3">
       1. 在职期间担任B2C项目组测试小组长，为新员工装工行办公系统并配置测试环境，讲解B2C项目整体情况，熟悉办公环境。
@@ -537,7 +537,7 @@ hr{ border: 1px solid #a3aab1;}
 </tr>
 
 
-  <tr><td class="td_left">测试过的专项：</td></tr>
+  <tr><td class="td_left" colspan="3">测试过的专项：</td></tr>
   <tr >
     <td colspan="3">
       商城活动（活动包括：满减、满送、包邮、大型活动、商户限时抢购、预售、首单立减、搭售、赠品、集团购、集中采购、秒杀、限时抢购、团购）、手机充值、商城交易监控、跨境购、支付和账单对账等测试。这些包括在商户中心、运营中心、购物中心整个购物流程中的各个功能点的测试，所有这些都要进行 PC  和手机端的测试以及兼容性测试。
@@ -546,7 +546,7 @@ hr{ border: 1px solid #a3aab1;}
 
 
 
-  <tr><td class="td_left">业绩：</td></tr>
+  <tr><td class="td_left" colspan="3">业绩：</td></tr>
   <tr >
     <td colspan="3">
       1. 取得工行测试小组和开发组的综合评分最佳主动奖;
