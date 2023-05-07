@@ -32,6 +32,7 @@ tr,td {
 
 hr{ 
   border: 1px solid;
+  border-color: #40af7c;
   color: #40af7c;
 
 }
