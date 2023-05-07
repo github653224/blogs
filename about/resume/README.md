@@ -40,7 +40,7 @@ hr{
 
 hr {
   border: none;
-  height: 1px;
+  height: 2px;
   background-color:#40af7c;
 }
 
