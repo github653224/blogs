@@ -30,7 +30,7 @@ tr,td {
   
 }
 
-hr{ border: 1px solid #a3aab1;}
+hr{ border: 1px solid dark;}
 
 </style>
 
