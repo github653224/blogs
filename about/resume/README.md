@@ -24,6 +24,12 @@ tr,td {
   font-weight: bold;
 }
 
+.td_left{
+  font-weight: bold;
+  text-align: left;
+  text-align-last:justify;
+}
+
 </style>
 
 
@@ -74,13 +80,101 @@ tr,td {
 
 
 
+---
 
 ### 职业发展方向
-- **测试开发工程师**
-- **UI/APP自动化测试工程师**
-- **性能测试工程师**
-- **接口自动化测试工程师**
-- **客户端专项测试工程师**
+
+- 测试工程师
+- 自动化性能测试工程师
+- 测试开发工程师
+- 测试管理工程师
+
+---
+
+### 教育经历
+
+<table>
+  <tr >
+    <td class="td_right">2009.09-2013.06</td>
+    <td width="200px">绍兴文理学院</td>
+    <td width="210px">工商管理（统招本科）</td>
+  </tr> 
+
+  <tr >
+    <td class="td_right">2010.09-2013.06</td>
+    <td width="200px">绍兴文理学院</td>
+    <td width="210px">国际经济与贸易（统招本科）</td>
+  </tr>
+</table>
+
+---
+
+### 职业经历
+
+<table>
+  <tr>
+    <td class="td_right"  width="140px">2021.10-2023.05</td>
+    <td width="360px">北京沃东天骏信息技术有限公司（京东零售广告）</td>
+    <td width="210px">测试开发工程师</td>
+  </tr> 
+
+  <tr>
+    <td class="td_right">2019.03-2021.10</td>
+    <td width="200px">浩鲸云计算（北京）科技有限公司</td>
+    <td width="210px">自动化测试工程师</td>
+  </tr>
+
+  <tr>
+    <td class="td_right">2016.10-2019.02</td>
+    <td width="380px">爱多邦（北京）信息技术服务有限公司（外派爱立信）</td>
+    <td width="210px">Python开发工程师</td>
+  </tr> 
+
+  <tr>
+    <td class="td_right">2013.10-2016.10</td>
+    <td width="200px">上海艾融软件股份有限公司</td>
+    <td width="210px">测试工程师</td>
+  </tr>
+
+
+</table>
+
+---
+
+### 英语及职业技能
+
+<table>
+<tr>
+    <td>1.</td>
+    <td class="td_left">技能证书</td>
+    <td>英语六级证书，软考证书</td>
+    <td width="200px">能熟练阅读英文IT资料和外文IT技术论坛来解决实际工作中遇到的问题</td>
+  </tr>
+
+<tr>
+    <td rowspan="3">2.</td>
+    <td class="td_left" rowspan="3">技术沉淀小站</td>
+    <td>在线微简历</td>
+    <td><a href="https://github653224.github.io/blogs/about/resume/">https://github653224.github.io/blogs/about/resume/</a></td>
+</tr>
+
+<tr>
+    <td>Github地址</td>
+    <td><a href="https://github.com/github653224">https://github.com/github653224</a></td>
+</tr>
+
+<tr>
+    <td>博客园地址</td>
+    <td><a href="https://www.cnblogs.com/my-blogs-for-everone/">https://www.cnblogs.com/my-blogs-for-everone/</a></td>
+</tr>
+
+<tr>
+    <td>3.</td>
+    <td class="td_left">技术标签</td>
+    <td>自动化/性能</td>
+    <td>Mysql、Python、Robot framework、Selenium、Appium、Jenkins、Allure、Pytest、Jira、禅道、接口测试、性能测试、Jmeter</td>
+  </tr>
+</table>
 
 
 ### 个人技术栈:
@@ -106,7 +200,7 @@ tr,td {
 - 常去的网站：CSDN、博客园、TestHome，测试教程网，乙醇和虫师博客及论坛，Stack Overflow、python论坛、robot framework官网等。
 
 
-## 个人履历简述
+### 个人履历简述
 
 > 本人从毕业之后一直从事软件测试相关的工作，做过功能测试及测试leader，做过接口开发，做过UI自动化测试,接口自动化测试，服务性能测试以及客户端的专项测试，
   有一定的自动化测试经验和性能测试经验;
