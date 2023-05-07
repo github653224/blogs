@@ -34,7 +34,14 @@ hr{
   border: 1px solid;
   height: 1px;
   background-color: #40af7c;
+  border-color: #40af7c;
 
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color:#40af7c;
 }
 
 </style>
