@@ -146,7 +146,7 @@ tr,td {
 <table>
 <tr>
     <td>1.</td>
-    <td class="td_left" width="110">技能证书</td>
+    <td class="td_left" width="110">证书</td>
     <td>英语六级证书，软考证书，人人三小时公益证书</td>
     <td width="200px">能熟练阅读英文IT资料和外文IT技术论坛来解决实际工作中遇到的问题</td>
   </tr>
@@ -170,35 +170,41 @@ tr,td {
 
 <tr>
     <td>3.</td>
-    <td class="td_left">技术标签</td>
+    <td class="td_left">技能标签</td>
     <td>自动化/性能</td>
     <td>Mysql、Python、Robot framework、Selenium、Appium、Jenkins、Allure、Pytest、Jira、禅道、接口测试、性能测试、Jmeter</td>
   </tr>
 </table>
 
+---
 
-### 个人技术栈:
-> 自动化测试经验：
-- 熟悉企业软件开发，测试流程和规范，能够深层次理解需求，在项目各个阶段及时发现问题及风险并推进解决，熟悉Jira，禅道等缺陷管理工具。
-- 熟悉Python + Robot framework （Selenium Web driver）+ Pytest + Jenkins + Allure自动测试框架编写WEB UI自动测试脚本； 
-- 熟悉Python + Robot framework （Appium） + Pytest  + Jenkins+ Allure自动测试框架编写移动端自动化测试脚本； 
-- 熟悉Python+ Robot framework  （requests） + Pytest + Jenkins + Allure自动测试框架编写接口自动化测试脚本， 有设计自动化测试框架和实践经验。
+<style>
+  p{margin:15px 0}
+  p{line-height:23px}
+</style>
 
-> 接口测试经验：
-- 熟悉接口测试，熟悉抓包工具Fiddler/Charles，接口测试工具Postman/SoapUI，可以对接口返回数据经行截取，篡改，mock模拟真实数据测试接口及抓取报错信息排查问题。
 
-> 性能测试经验：
-- 熟悉性能测试流程和测试工具JMeter, PerfDog + Monkey(移动端性能测试工具), LoadRunner，可编制性能测试方案，编写性能测试脚本执行脚本和输出性能测试报告。
+### 专业技术栈:
+> 自动化测试经验：  
+<p>1. 熟悉企业软件敏捷迭代开发流程，测试流程及规范，能深层次理解需求，在项目各个阶段及时发现问题及风险并推进解决。</p>
+<p>2. 了解Devops持续测试及测试左移右移思想，在软件开发各个阶段尽早接入测试，尽早发现问题，发挥测试最大价值。</p>
+<p>3. 熟悉开源自动化测试框架：Python+RF/Requests/Appium/Selenium/+Pytest+Allure+Jenkins编写服务端/移动端/UI自动化测试脚本结合CI/CD工具持续测试，有设计封装PageObject自动化测试框架并落地实践经验。</p>
 
 > sql&Linux经验：
-- 熟悉SQL Server、MySQL、Oracle等主流数据库，有一定的SQL功底，如增删改查，索引，复制，SQL优化分析等经验。
-- 熟悉Linux操作系统的基本操作，了解Nginx, Redis等服务中间件的使用，熟悉tomcat web服务容器的配置使用。
+<p>1. 熟悉MySQL、SQL Server、Oracle等主流数据库，有一定的SQL功底，如CRUD，数据导入导出备份，索引，SQL性能优化分析等。</p>
+<p>2. 熟悉Linux系统常用命令及shell脚本语言，了解Nginx, tomcat web服务容器， Redis等服务中间件的使用，能使用shell编写测试脚本辅助业务测试提效等。</p>
 
-> 开发语言及框架经验：
-- 熟悉开发语言python主流的开发工具PyCharm，Eclipse，Git等。
-- 熟悉前端HTML、CSS、JS前端开发技术和语言，熟悉python和Django Web框架，实现Restful接口和后台服务的编程以及测试。
-- 常去的网站：CSDN、博客园、TestHome，测试教程网，乙醇和虫师博客及论坛，Stack Overflow、python论坛、robot framework官网等。
+> 专项及性能测试经验：
+<p>1. 熟悉服务端和移动端性能测试流程，可编制性能测试方案，编写性能测试脚本，对服务端和客户端进行性能压测及定位系统性能问题，测试工具链JMeter + Grafana, Perf Dog + Monkey+ADB。</p>
+<p>2. 熟悉移动端专项测试方法流程和测试标准，了解web端和移动端安全相关的测试，可编制测试方案，对web端和移动做安全测试并输出安全测试报告。</p>
+<p>3. 熟悉流量抓包工具Charles/Burp suite及接口测试工具Postman/JMeter，可以对接口返回数据经行截取，篡改，mock模拟真实数据测试接口，模拟弱网测试，抓取报错日志排查问题。</p>
 
+> 开发语言及其他：
+<p>1. 熟悉python，shell，go，java等语言及开发工具PyCharm，VScode，Idea，Git等开发工具，有一定能力编写脚本解决测试过程中遇到的问题来提高测试效率。</p>
+<p>2. 熟悉前端HTML、CSS、JS前端开发技术和语言，熟悉python和Django Web框架，实现Restful接口和后台服务的编程以及测试。</p>
+<p>3. 常去的网站：CSDN、博客园、Test Home，测试教程网，乙醇和虫师博客及论坛，Stack Overflow、python论坛、robot framework官网等提高技术及寻找问题解决方案。</p>
+
+---
 
 ### 个人履历简述
 
