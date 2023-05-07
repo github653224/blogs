@@ -30,6 +30,8 @@ tr,td {
   
 }
 
+hr{ border: 1px solid #3eaf7c;}
+
 </style>
 
 
@@ -77,7 +79,6 @@ tr,td {
 </tr>
 
 </table>
-
 
 
 <hr>
