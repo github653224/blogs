@@ -30,10 +30,6 @@ tr,td {
   
 }
 
-.tr_bg {
-    background-color: gray;
-}
-
 
 </style>
 
