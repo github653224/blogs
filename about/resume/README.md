@@ -180,8 +180,8 @@ tr,td {
 <hr>
 
 <style>
-  p{margin:15px 0}
-  p{line-height:23px}
+  p{margin:16px 0}
+  p{line-height:29px}
 </style>
 
 
