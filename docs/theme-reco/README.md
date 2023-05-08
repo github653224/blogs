@@ -250,5 +250,21 @@ css代码：p{margin:10px 0}
 ### 好用的网站
 
 - 颜色网： https://encycolorpedia.cn/named
-- 
+
+### hr标签颜色设置
+
+
+hr{ 
+  border: 1px solid;
+  height: 1px;
+  background-color: #40af7c;
+  border-color: #40af7c;
+
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background-color:#40af7c;
+}
 
