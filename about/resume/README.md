@@ -217,7 +217,7 @@ tr,td {
 ### 个人履历简述  
 
 <table>
-  <tr class="tr_bg">
+  <tr>
     <td class="td_left">北京沃东天骏信息技术有限公司</td>
     <td width="200px" class="td_left">2021.10 ~ 2023.05</td>
     <td width="200px">测试开发工程师</td>
