@@ -11,6 +11,7 @@ sidebar: auto
 <style>
 table{
   border: none;
+  line-height: 25px;
 }
 
 tr,td {
@@ -180,8 +181,8 @@ tr,td {
 <hr>
 
 <style>
-  p{margin:16px 0}
-  p{line-height:29px}
+  p{margin:15px 0}
+  p{line-height:25px}
 </style>
 
 
