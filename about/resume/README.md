@@ -257,22 +257,22 @@ tr,td {
 <tr >
     <td colspan="3">
       2. 提效工具开发-Devops流水线建设：接口自动化，输出了可行的能实际落地自动化测试方案并组织在组内进行分享，得到领导和同事的认可。对Newman的测试报告源码进行二次开发优化测试报告。
-      输出成果点击链接查看： <a href="https://docs.qq.com/slide/DVXhSRGZjTkRxalZE">postman脚本工程化及CICD分享</a>
+      输出成果点击链接查看： <a target="_blank" href="https://docs.qq.com/slide/DVXhSRGZjTkRxalZE">postman脚本工程化及CICD分享</a>
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
       3. 提效工具开发-Devops流水线建设：日志流系统流水线建设，提高测试效率节省1~2人力，实现代码提交全程无人工干预自动化测试流程，在某种程度上提高了测试效率。
-      输出成果点击链接查看：<a href="https://docs.qq.com/slide/DVXJBeWlnTHdpTU5I">日志流系统流水线建设</a>，公众号发表了<a href="https://mp.weixin.qq.com/s/5H2fziAThjWGxO3OH67rWw">《实用Jenkins远程调用方案》</a>（现在看来有很多待优化的地方） 和 <a href="https://mp.weixin.qq.com/s/QlyHGd7gIDjLy11wSnA8Ow">《diff测试技术文档》</a>。
+      输出成果点击链接查看：<a target="_blank" href="https://docs.qq.com/slide/DVXJBeWlnTHdpTU5I">日志流系统流水线建设</a>，公众号发表了<a target="_blank" href="https://mp.weixin.qq.com/s/5H2fziAThjWGxO3OH67rWw">《实用Jenkins远程调用方案》</a>（现在看来有很多待优化的地方） 和 <a target="_blank" href="https://mp.weixin.qq.com/s/QlyHGd7gIDjLy11wSnA8Ow">《diff测试技术文档》</a>。
     </td>
 </tr>
 
 <tr >
     <td colspan="3">
       4. 提效工具开发-Devops  流水线建设：用户更新流流水线建设，探索某一类问题的通用解决方案并形成文档发表至公司技术期刊，为遇到和我一类问题的人提供了解决思路，发现CICD平台多处bug和优化的功能项，反馈给平台得到其团队研发认可并给与100元京东E奖励。
-      发表通用的问题解决方案 <a href="https://docs.qq.com/pdf/DVVNzekt0cnpOdHlM?">《行云流水线（Bamboo）远程服务部署》</a>
-      输出成果点击链接查看： <a href="https://docs.qq.com/pdf/DVVVoT2ZraFBQRHRi?">《用户更新流流水线建设方案》</a>，<a href="https://docs.qq.com/pdf/DVWJvcElPWFFsRFho?">《用户更新流流水线使用指南》</a>，<a href="https://docs.qq.com/slide/DVVZNdlNDcm1YbVRl">《流水线实践结果》</a>
+      发表通用的问题解决方案 <a target="_blank" href="https://docs.qq.com/pdf/DVVNzekt0cnpOdHlM?">《行云流水线（Bamboo）远程服务部署》</a>
+      输出成果点击链接查看： <a target="_blank" href="https://docs.qq.com/pdf/DVVVoT2ZraFBQRHRi?">《用户更新流流水线建设方案》</a>，<a target="_blank" href="https://docs.qq.com/pdf/DVWJvcElPWFFsRFho?">《用户更新流流水线使用指南》</a>，<a target="_blank" href="https://docs.qq.com/slide/DVVZNdlNDcm1YbVRl">《流水线实践结果》</a>
     </td>
 </tr>
 
