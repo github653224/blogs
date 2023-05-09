@@ -2,7 +2,7 @@
 title: 潘雪岩的微简历   
 date: 2023-05-05   
 sidebar: auto
-
+sticky: 1
 ---
 
 
