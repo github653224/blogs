@@ -319,7 +319,7 @@ hr {
 
 <tr >
     <td colspan="3">
-      3. 专职负责落地公司自动化测试，编制自动化测试方案，编写维护自动化测试脚本，持续集成，定时输出自动化测试报告，使用的技术及框架：python+pytest+selenium+allure+jenkins ，工具pycharm。
+      3. 专职负责落地公司自动化测试，编制自动化测试方案，编写维护自动化测试脚本，持续集成，定时输出自动化测试报告，使用的技术及框架：python+pytest+selenium/RF+allure+jenkins ，工具pycharm。
     </td>
 </tr>
 
