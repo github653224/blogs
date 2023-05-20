@@ -265,7 +265,7 @@ hr {
 <tr >
     <td colspan="3">
       2. 提效工具开发-Devops流水线建设：接口自动化，输出了可行的能实际落地自动化测试方案并组织在组内进行分享，得到领导和同事的认可。对Newman的测试报告源码进行二次开发优化测试报告。
-      输出成果点击链接查看： <a target="_blank" href="https://docs.qq.com/slide/DVXhSRGZjTkRxalZE">postman脚本工程化及CICD分享</a>
+      输出成果点击链接查看： <a target="_blank" href="https://docs.qq.com/slide/DVXhSRGZjTkRxalZE">postman脚本工程化及CICD分享</a>。
     </td>
 </tr>
 
@@ -279,8 +279,8 @@ hr {
 <tr >
     <td colspan="3">
       4. 提效工具开发-Devops  流水线建设：用户更新流流水线建设，探索某一类问题的通用解决方案并形成文档发表至公司技术期刊，为遇到和我一类问题的人提供了解决思路，发现CICD平台多处bug和优化的功能项，反馈给平台得到其团队研发认可并给与100元京东E奖励。
-      发表通用的问题解决方案 <a target="_blank" href="https://docs.qq.com/pdf/DVVNzekt0cnpOdHlM?">《行云流水线（Bamboo）远程服务部署》</a>
-      输出成果点击链接查看： <a target="_blank" href="https://docs.qq.com/pdf/DVVVoT2ZraFBQRHRi?">《用户更新流流水线建设方案》</a>，<a target="_blank" href="https://docs.qq.com/pdf/DVWJvcElPWFFsRFho?">《用户更新流流水线使用指南》</a>，<a target="_blank" href="https://docs.qq.com/slide/DVVZNdlNDcm1YbVRl">《流水线实践结果》</a>
+      发表通用的问题解决方案 <a target="_blank" href="https://docs.qq.com/pdf/DVVNzekt0cnpOdHlM?">《行云流水线（Bamboo）远程服务部署》</a>。
+      输出成果点击链接查看： <a target="_blank" href="https://docs.qq.com/pdf/DVVVoT2ZraFBQRHRi?">《用户更新流流水线建设方案》</a>，<a target="_blank" href="https://docs.qq.com/pdf/DVWJvcElPWFFsRFho?">《用户更新流流水线使用指南》</a>，<a target="_blank" href="https://docs.qq.com/slide/DVVZNdlNDcm1YbVRl">《流水线实践结果》</a>。
     </td>
 </tr>
 
@@ -409,7 +409,7 @@ hr {
 
 <tr >
     <td colspan="3">
-      7. 解决开发过程中遇到的问题，学习与项目相关的新技术，验证自己的代码. 
+      7. 解决开发过程中遇到的问题，学习与项目相关的新技术，验证自己的代码。
     </td>
 </tr>
 
@@ -481,7 +481,7 @@ hr {
 
 <tr >
     <td colspan="3">
-      2. 如期完成项目BE功能的研发，和FE联调测试，保证项目顺利上线；
+      2. 如期完成项目BE功能的研发，和FE联调测试，保证项目顺利上线。
     </td>
 </tr>
 </table>
@@ -574,13 +574,13 @@ hr {
   <tr><td class="td_left" colspan="3">业绩：</td></tr>
   <tr >
     <td colspan="3">
-      1. 取得工行测试小组和开发组的综合评分最佳主动奖;
+      1. 取得工行测试小组和开发组的综合评分最佳主动奖。
     </td>
   </tr>
 
 <tr >
     <td colspan="3">
-      2. 有效bug数提的最多，被评为优秀员工;
+      2. 有效bug数提的最多，被评为优秀员工。
     </td>
 </tr>
 
@@ -594,10 +594,10 @@ hr {
 ### 自我评价
 
 1. 有10年的软件测试经验，对互联网行业充满激情，有进取心，能加班加点独立负责某块业务如期上线交付，做过功能测试及测试leader，做过接口开发，UI自动化测试,接口自动化测试，服务端性能测试以及客户端的专项测试，
-  有一定的自动化测试和性能测试经验; 
+  有一定的自动化测试和性能测试经验。
 
-2. 有良好的沟通能力和跨部门团队协作能力，能够很好的和产研测及项目经理以及客户沟通;
+2. 有良好的沟通能力和跨部门团队协作能力，能够很好的和产研测及项目经理以及客户沟通。
 
-3. 喜欢钻研技术，熟练python，shell，Java等语言，熟悉RobotFramework、Selenium Web-Driver、Appium等开源测试框架，能够胜任web端，app端，接口自动化及性能测试并实践落地达到Devops提效。 
+3. 喜欢钻研技术，熟练python，shell，Java等语言，熟悉RobotFramework、Selenium Web-Driver、Appium等开源测试框架，能够胜任web端，app端，接口自动化及性能测试并实践落地达到Devops提效。
 
 4. 喜欢关注各大IT博客了解最新前沿技术和解决问题的方法，有自己的技术博客及问题解决知识库，遇到问题能快速找到解决方案，提高工作效率。
