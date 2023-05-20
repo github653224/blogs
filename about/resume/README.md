@@ -31,6 +31,13 @@ tr,td {
   
 }
 
+hr {
+
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
 
 </style>
 
@@ -337,6 +344,20 @@ tr,td {
       3. 横向支撑为测试团队的建立打下夯实的基础。
     </td>
 </tr>
+
+<tr >
+    <td colspan="3">
+      4. 详细的业绩请点击链接查看：
+      <br>
+      <a target="_blank" href="https://docs.qq.com/pdf/DVXNpcWtrdEpGRERR">《自动化测试计划V1.3》</a><br>
+      <a target="_blank" href="https://docs.qq.com/pdf/DVXBXZ0xFSHFHdFRP">《自动化测试方案V1.0》</a><br>
+      <a target="_blank" href="https://docs.qq.com/pdf/DVXZScUNmRHFLT0hM">《服开接口自动化脚本说明》</a><br>
+      <a target="_blank" href="https://docs.qq.com/pdf/DVXFEZUxBV0diSG5Q">《企业自动化测试流程V1.0》</a><br>
+      <a target="_blank" href="https://docs.qq.com/pdf/DVVhYclFaQXlSR1du">《eSOP接口性能测试解决方案V1.2》</a><br>
+      <a target="_blank" href="https://docs.qq.com/pdf/DVVVlUlpORnZnVHF0">《esop接口性能测试报告---UAT环境》</a><br>
+      <a href="#">更多不方便展示</a>
+    </td>
+</tr>
 </table>
 
 <hr>
@@ -570,18 +591,13 @@ tr,td {
 
 
 
-### 个人简介
+### 自我评价
 
-> 本人从毕业之后一直从事软件测试相关的工作，做过功能测试及测试leader，做过接口开发，做过UI自动化测试,接口自动化测试，服务性能测试以及客户端的专项测试，
-  有一定的自动化测试经验和性能测试经验;
+1. 有10年的软件测试经验，对互联网行业充满激情，有进取心，能加班加点独立负责某块业务如期上线交付，做过功能测试及测试leader，做过接口开发，做过UI自动化测试,接口自动化测试，服务性能测试以及客户端的专项测试，
+  有一定的自动化测试经验和性能测试经验; 
 
-> 进入公司一直在做项目的横向支撑的测试工作和相关的管理工作;
+2. 有良好的沟通能力和跨部门团队协作能力，能够很好的和产研测及项目经理以及客户沟通;
 
-> 应公司及客户的要求配合对被测试系统涉设计自动化或者性能测试方案，设计自动化测试框架，搭建自动化测试环境，编写自动化测试脚本，最终交付给甲方验收，给客户
-  培训如何使用自动化测试脚本等工作;
+3. 喜欢钻研技术，熟练python，shell，Java等语言，熟悉RobotFramework、Selenium Web-Driver、Appium等开源测试框架，能够胜任web端，app端，接口自动化及性能测试并实践落地达到Devops提效。 
 
-> 到公司各个重点支撑项目中去主导上线前冲刺阶段的功能测试，端到端的联调测试，性能测试，深入理解需求，在项目各个阶段及时发现问题及风险并推进项目，向客户输
-  出上线必备的交付材，如性能测试报告，上线申请必备资料;
-
-> 今年主要业绩是支撑公司S级战略级项目---中国电信新销售平台从零到一顺利上线直至运维维稳，该项目需求多且变幻莫测，要求也多，积极响应把控主导项目的测试工作，
-  根据需求及研发排期编制测试计划，测试方案，及测试任务的划分，测试进度的把控，向上级领导汇报整体测试进度及风险
+4. 喜欢关注各大IT博客了解最新前沿技术和解决问题的方法，有自己的技术博客及问题解决知识库，遇到问题能快速找到解决方案。
