@@ -217,6 +217,12 @@ hr {
 <p>3. 熟悉流量抓包工具Charles/Burp suite及接口测试工具Postman/JMeter，可以对接口返回数据经行截取、篡改并mock模拟真实数据测试接口，模拟弱网测试，抓取报错日志排查问题。</p>
 
 
+> Devops&容器化：
+
+<p>1. 可使用docker搭建测试过程中需要的各种环境，提供公共有用工具的镜像包。</p>
+<p>2. 使用jenkins结合shell或者python脚本，结合项目测试特点，通过自动构建部署及测试无人值守化来提高测试效率。</p>
+
+
 > 开发语言及其他：  
 
 <p>1. 熟悉python，shell，go，java等语言及开发工具PyCharm，VScode，Idea，Git等开发工具，有一定能力编写脚本解决测试过程中遇到的问题来提高测试效率。</p>
