@@ -144,7 +144,7 @@ hr {
 
   <tr>
     <td class="td_right">2013.10-2016.10</td>
-    <td width="200px">上海艾融软件股份有限公司（外派工商银行）</td>
+    <td width="200px">上海艾融软件股份有限公司</td>
     <td width="210px">测试工程师</td>
   </tr>
 
@@ -159,7 +159,7 @@ hr {
 <tr>
     <td>1.</td>
     <td class="td_left" width="110">证书</td>
-    <td>英语六级证书，软考证书，人人三小时公益证书</td>
+    <td>英语六级证书，软考证书，人人三小时公益证书，阿里云原生容器技术实践营课程培训证书</td>
     <td width="200px">能熟练阅读英文IT资料和外文IT技术论坛来解决实际工作中遇到的问题</td>
   </tr>
 
@@ -212,9 +212,9 @@ hr {
 
 > 专项及性能测试：  
 
-<p>1. 熟悉服务端和移动端性能测试流程，可编制性能测试方案，性能测试脚本，对服务端和客户端进行性能压测及定位系统性能问题，测试工具链JMeter+Grafana+InfluxDB, SoloPi/PerfDog+Monkey+ADB。</p>
+<p>1. 熟悉服务端和移动端性能测试流程，可编制性能测试方案，性能测试脚本，对服务端和客户端进行性能压测及定位系统性能问题，测试工具链JMeter+Grafana+InfluxDB, SoloPi/PerfDog+Monkey+ADB+python/shell脚本。</p>
 <p>2. 熟悉移动端专项测试方法流程和测试标准，了解web端和移动端安全相关的测试，可编制测试方案，对web端和移动做安全测试并输出安全测试报告。</p>
-<p>3. 熟悉流量抓包工具Charles/Burp suite及接口测试工具Postman/JMeter，可以对接口返回数据经行截取、篡改并mock模拟真实数据测试接口，模拟弱网测试，抓取报错日志排查问题。</p>
+<p>3. 熟悉流量抓包工具Charles/Fiddler/Burp suite及接口测试工具Postman/JMeter，可以对接口返回数据经行截取、篡改并mock模拟真实数据测试接口，模拟弱网测试，抓取报错日志排查问题。</p>
 
 
 > 容器化持续集成：
