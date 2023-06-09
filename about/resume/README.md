@@ -126,7 +126,7 @@ hr {
 <table>
   <tr>
     <td class="td_right"  width="140px">2021.10-2023.05</td>
-    <td width="360px">北京沃东天骏信息技术有限公司（京东零售广告）</td>
+    <td width="360px">北京沃东天骏信息技术有限公司-京东零售广告</td>
     <td width="210px">测试开发工程师</td>
   </tr> 
 
@@ -138,7 +138,7 @@ hr {
 
   <tr>
     <td class="td_right">2016.10-2019.02</td>
-    <td width="380px">爱多邦（北京）信息技术服务有限公司（外派爱立信）</td>
+    <td width="380px">爱多邦（北京）信息技术服务有限公司</td>
     <td width="210px">Python开发工程师</td>
   </tr> 
 
