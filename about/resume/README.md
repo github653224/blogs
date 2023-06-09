@@ -388,7 +388,7 @@ hr {
 
 <table>
   <tr>
-    <td class="td_left">爱立信（中国）通信有限公司</td>
+    <td class="td_left">爱多帮（北京）信息技术有限公司</td>
     <td width="200px" class="td_left">2016.10 ~ 2019.02</td>
     <td width="200px">Python开发工程师</td>
   </tr> 
@@ -513,7 +513,7 @@ hr {
 
 <table>
   <tr>
-    <td class="td_left">中国工商银行股份有限公司北京研发中心二部</td>
+    <td class="td_left">上海艾融软件股份有限公司</td>
     <td width="200px" class="td_left">2013.10 ~ 2016.10</td>
     <td width="200px">测试工程师</td>
   </tr> 
