@@ -1,6 +1,6 @@
 ---
 title: 潘雪岩的微简历   
-date: 2023-05-05   
+date: 2024-08-11   
 sidebar: auto
 sticky: 1
 ---
@@ -95,9 +95,10 @@ hr {
 
 ### 职业发展方向
 
+- 软件测试
 - 自动化性能性能测试工程师
 - 测试开发工程师
-- 测试管理工程师
+- 测试管理
 
 <hr>
 
@@ -124,25 +125,25 @@ hr {
 
 <table>
   <tr>
-    <td class="td_right"  width="140px">2021.10-2023.05</td>
-    <td width="360px">北京沃东天骏信息技术有限公司-京东零售广告</td>
+    <td class="td_right"  width="140px">2023.06-至今</td>
+    <td width="360px">用友网络科技股份有限公司</td>
+    <td width="210px">高级测试工程师</td>
+  </tr> 
+
+  <tr>
+    <td class="td_right"  width="140px">2020.03-2023.05</td>
+    <td width="360px">京东零售广告</td>
     <td width="210px">测试开发工程师</td>
   </tr> 
 
   <tr>
-    <td class="td_right">2019.03-2021.10</td>
+    <td class="td_right">2017.11-2020.02</td>
     <td width="200px">浩鲸云计算（北京）科技有限公司</td>
     <td width="210px">自动化测试工程师</td>
   </tr>
 
   <tr>
-    <td class="td_right">2016.10-2019.02</td>
-    <td width="380px">爱多邦（北京）信息技术服务有限公司</td>
-    <td width="210px">Python开发工程师</td>
-  </tr> 
-
-  <tr>
-    <td class="td_right">2013.10-2016.10</td>
+    <td class="td_right">2013.10-2017.10</td>
     <td width="200px">上海艾融软件股份有限公司</td>
     <td width="210px">测试工程师</td>
   </tr>
@@ -183,7 +184,7 @@ hr {
     <td>3.</td>
     <td class="td_left">技能标签</td>
     <td>自动化/性能</td>
-    <td>Mysql、Python、Robot framework、Selenium、Appium、Jenkins、Allure、Pytest、Jira、禅道、接口测试、性能测试、Jmeter</td>
+    <td>Sql、Python、Robot framework、Selenium、Appium、Jenkins、Allure、Pytest、Jira、禅道、接口测试、性能测试、Jmeter</td>
   </tr>
 </table>
 
@@ -198,7 +199,7 @@ hr {
 ### 专业技术栈:
 > 业务&自动化测试：   
 
-<p>1. 熟悉企业软件敏捷迭代开发流程，测试流程及规范，能深层次理解需求，在项目各个阶段及时发现问题及风险并推进解决。</p>
+<p>1. 熟悉企业软件敏捷迭代开发流程，测试流程及规范，能深层次理解需求，在项目各个阶段及时发现问题及风险并推进解决。
 <p>2. 了解Devops持续测试及测试左移右移思想，在软件开发各个阶段尽早接入测试，尽早发现问题，发挥测试最大价值。</p>
 <p>3. 熟悉开源自动化测试框架：Python+RF/Requests/Appium/Selenium/+Pytest+Allure+Jenkins编写服务端/移动端/UI自动化测试脚本结合CI/CD工具持续测试，有设计封装PageObject自动化测试框架并落地实践经验。</p>
 
