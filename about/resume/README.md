@@ -212,34 +212,82 @@ hr {
 
 > 专项及性能测试：  
 
-<p>1. 熟悉服务端和移动端性能测试流程，可编制性能测试方案，性能测试脚本，对服务端和客户端进行性能压测及定位系统性能问题，测试工具链JMeter+Grafana+InfluxDB, SoloPi/PerfDog+Monkey+ADB+python/shell脚本。</p>
-<p>2. 熟悉移动端专项测试方法流程和测试标准，了解web端和移动端安全相关的测试，可编制测试方案，对web端和移动做安全测试并输出安全测试报告。</p>
-<p>3. 熟悉流量抓包工具Charles/Fiddler/Burp suite及接口测试工具Postman/JMeter，可以对接口返回数据经行截取、篡改并mock模拟真实数据测试接口，模拟弱网测试，抓取报错日志排查问题。</p>
+1. 熟悉服务端和移动端性能测试流程，可编制性能测试方案，性能测试脚本，对服务端和客户端进行性能压测及定位系统性能问题，测试工具链JMeter+Grafana+InfluxDB, SoloPi/PerfDog+Monkey+ADB+python/shell脚本。
+2. 熟悉移动端专项测试方法流程和测试标准，了解web端和移动端安全相关的测试，可编制测试方案，对web端和移动做安全测试并输出安全测试报告。
+3. 熟悉流量抓包工具Charles/Fiddler/Burp suite及接口测试工具Postman/JMeter，可以对接口返回数据经行截取、篡改并mock模拟真实数据测试接口，模拟弱网测试，抓取报错日志排查问题。
 
 
 > 容器化持续集成：
 
-<p>1. 可使用docker搭建测试过程中需要的各种环境，提供公共有用工具的镜像包。</p>
-<p>2. 使用jenkins结合shell或者python脚本，结合项目测试特点，通过自动构建部署及测试无人值守化来提高测试效率。</p>
+1. 可使用docker搭建测试过程中需要的各种环境，提供公共有用工具的镜像包。
+2. 使用jenkins结合shell或者python脚本，结合项目测试特点，通过自动构建部署及测试无人值守化来提高测试效率。
 
 > 持续交付Devops：
 
-<p>1. 熟悉Jenkins+Gitlab+Docker+K8S+Helm+Harbor+Prometheus+Grafana等工具链，可搭建持续交付平台，实现自动化构建部署，自动化测试，自动化发布，自动化监控等。</p>
-<p>2. 测试左移测试右移，容器进阶，测试平台，代码分析，质量监控，持续交付。</p>
+1. 熟悉Jenkins+Gitlab+Docker+K8S+Helm+Harbor+Prometheus+Grafana等工具链，可搭建持续交付平台，实现自动化构建部署，自动化测试，自动化发布，自动化监控等。
+2. 测试左移测试右移，容器进阶，测试平台，代码分析，质量监控，持续交付。
 
 > 开发语言及其他：  
 
-<p>1. 熟悉python，shell，go，java等语言及开发工具PyCharm，VScode，Idea，Git等开发工具，有一定能力编写脚本解决测试过程中遇到的问题来提高测试效率。</p>
-<p>2. 熟悉前端HTML、CSS、JS前端开发技术和语言，熟悉python和Django Web框架，实现Restful接口和后台服务的编程以及测试。</p>
-<p>3. 常去的网站：CSDN、博客园、Test Home，测试教程网，乙醇和虫师博客及论坛，Stack Overflow、python论坛、robot framework官网等提高技术及寻找问题解决方案。</p>
+1. 熟悉python，shell等语言及开发工具PyCharm，VScode，Idea，Git等开发工具，有一定能力编写脚本解决测试过程中遇到的问题来提高测试效率。
+2. 熟悉前端HTML、CSS、JS前端开发技术和语言，熟悉python和Django Web框架，实现Restful接口和后台服务的编程以及测试。
+3. 常去的网站：CSDN、博客园、Test Home，测试教程网，乙醇和虫师博客及论坛，Stack Overflow、python论坛、robot framework官网等提高技术及寻找问题解决方案。
 
 <hr>
 
 ### 个人履历简述  
 
+
 <table>
   <tr>
-    <td class="td_left">北京沃东天骏信息技术有限公司</td>
+    <td class="td_left">用友网络科技股份有限公司</td>
+    <td width="200px" class="td_left">2023.07 ~ 至今</td>
+    <td width="200px">高级测试工程师</td>
+  </tr> 
+  <tr><td class="td_left" colspan="3">内容：</td></tr>
+  <tr >
+    <td colspan="3">
+      1. 参与项目启动会，深度洞悉项目的背景及技术架构，全程参与需求评审。精心制定详尽的测试计划，悉心编写全面的测试用例，并有序组织测试用例评审。严格执行测试用例，紧密跟踪 bug 情况，及时编写上线测试报告，全力保障线上质量。
+    </td>
+  </tr>
+
+<tr >
+    <td colspan="3">
+      2. 主要负责平台的功能测试工作，涵盖源数据管理、取数方案设置、指标设置、模型管理，以及定时、增量、全量跑数等功能的精准验证。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      3. 编写报表指标验证sql，全面验证从业务数据抽取至 dwd 的相关数据，包括dwd依据取数方案过滤并汇总至 dws 的数据，同时确保指标计算逻辑数据的质量。具体的验证内容包含业务数据量的准确性、数据内容的完整性、规则转换的合理性、指标计算逻辑的正确性等。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      4. 4、对通过引用 ads 模型形成的上层 BI 报表数据指标计算逻辑进行严格验证。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      5. 根据质量部要求制定自动化测试计划，使用公司RPA设计器和自动化测试平台编写业务流程自动化测试脚本，维护各个环境自动化测试脚本，定时执行输出测试报告。
+    </td>
+</tr>
+
+<tr >
+    <td colspan="3">
+      6. 在项目中保持和产品经理、开发工程师等积极有效沟通，推动问题及时合理地解决，并保持总结问题。
+    </td>
+</tr>
+</table>
+
+
+<hr>
+
+<table>
+  <tr>
+    <td class="td_left">京东零售</td>
     <td width="200px" class="td_left">2020.04 ~ 2023.05</td>
     <td width="200px">测试开发工程师</td>
   </tr> 
@@ -316,7 +364,7 @@ hr {
 <table>
   <tr>
     <td class="td_left">浩鲸云计算科技股份有限公司</td>
-    <td width="200px" class="td_left">2019.03 ~ 2021.10</td>
+    <td width="200px" class="td_left">2017.11 ~ 2020.03</td>
     <td width="200px">自动化测试工程师</td>
   </tr> 
   <tr><td class="td_left" colspan="3">内容：</td></tr>
@@ -387,7 +435,7 @@ hr {
 <hr>
 
 
-<table>
+<!-- <table>
   <tr>
     <td class="td_left">爱多帮（北京）信息技术有限公司</td>
     <td width="200px" class="td_left">2016.10 ~ 2019.02</td>
@@ -508,14 +556,14 @@ hr {
       2. 如期完成项目BE功能的研发，和FE联调测试，保证项目顺利上线。
     </td>
 </tr>
-</table>
+</table> -->
 
 <hr>
 
 <table>
   <tr>
     <td class="td_left">上海艾融软件股份有限公司</td>
-    <td width="200px" class="td_left">2013.10 ~ 2016.10</td>
+    <td width="200px" class="td_left">2013.10 ~ 2017.10</td>
     <td width="200px">测试工程师</td>
   </tr> 
   <tr><td class="td_left" colspan="3">内容：</td></tr>
@@ -617,11 +665,4 @@ hr {
 
 ### 自我评价
 
-1. 有10年的软件测试经验，对互联网行业充满激情，有进取心，能加班加点独立负责某块业务如期上线交付，做过功能测试及测试leader，做过接口开发，UI自动化测试,接口自动化测试，服务端性能测试以及客户端的专项测试，
-  有一定的自动化测试和性能测试经验。
-
-2. 有良好的沟通能力和跨部门团队协作能力，能够很好的和产研测及项目经理以及客户沟通。
-
-3. 喜欢钻研技术，熟练python，shell，Java等语言，熟悉RobotFramework、Selenium Web-Driver、Appium等开源测试框架，能够胜任web端，app端，接口自动化及性能测试并实践落地达到Devops提效。
-
-4. 喜欢关注各大IT博客了解最新前沿技术和解决问题的方法，有自己的技术博客及问题解决知识库，遇到问题能快速找到解决方案，提高工作效率。
+<p>本人有11年软件测试经验，有较强的自学能力，动手能力和计算机操作能力，以及较强的环境适应能力及团队协作能力。工作认真负责，吃苦耐劳，能加班加点独立负责某块业务如期上线交付，喜欢关注各大IT博客了解最新前沿技术和解决问题的方法，有自己的技术博客，喜欢运动，热爱生活。</p>
