@@ -131,13 +131,13 @@ hr {
   </tr> 
 
   <tr>
-    <td class="td_right"  width="140px">2020.03-2023.05</td>
+    <td class="td_right"  width="140px">2020.04-2023.05</td>
     <td width="360px">京东零售广告</td>
     <td width="210px">测试开发工程师</td>
   </tr> 
 
   <tr>
-    <td class="td_right">2017.11-2020.02</td>
+    <td class="td_right">2017.11-2020.03</td>
     <td width="200px">浩鲸云计算（北京）科技有限公司</td>
     <td width="210px">自动化测试工程师</td>
   </tr>
@@ -199,8 +199,8 @@ hr {
 ### 专业技术栈:
 > 业务&自动化测试：   
 
-<p>1. 熟悉企业软件敏捷迭代开发流程，测试流程及规范，能深层次理解需求，在项目各个阶段及时发现问题及风险并推进解决。
-<p>2. 了解Devops持续测试及测试左移右移思想，在软件开发各个阶段尽早接入测试，尽早发现问题，发挥测试最大价值。</p>
+1. 熟悉企业软件敏捷迭代开发流程，测试流程及规范，能深层次理解需求，在项目各个阶段及时发现问题及风险并推进解决。
+2. 了解Devops持续测试及测试左移右移思想，在软件开发各个阶段尽早接入测试，尽早发现问题，发挥测试最大价值。
 <p>3. 熟悉开源自动化测试框架：Python+RF/Requests/Appium/Selenium/+Pytest+Allure+Jenkins编写服务端/移动端/UI自动化测试脚本结合CI/CD工具持续测试，有设计封装PageObject自动化测试框架并落地实践经验。</p>
 
 
@@ -240,7 +240,7 @@ hr {
 <table>
   <tr>
     <td class="td_left">北京沃东天骏信息技术有限公司</td>
-    <td width="200px" class="td_left">2021.10 ~ 2023.05</td>
+    <td width="200px" class="td_left">2020.04 ~ 2023.05</td>
     <td width="200px">测试开发工程师</td>
   </tr> 
   <tr><td class="td_left" colspan="3">内容：</td></tr>
