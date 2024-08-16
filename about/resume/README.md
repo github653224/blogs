@@ -145,7 +145,7 @@ hr {
   <tr>
     <td class="td_right">2016.11-2017.11</td>
     <td width="200px">爱多邦（北京）信息技术服务有限公司（外派爱立信）</td>
-    <td width="210px">测试工程师</td>
+    <td width="210px">python开发工程师</td>
   </tr>
 
   <tr>
