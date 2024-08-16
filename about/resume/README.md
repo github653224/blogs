@@ -137,13 +137,19 @@ hr {
   </tr> 
 
   <tr>
-    <td class="td_right">2017.11-2020.03</td>
+    <td class="td_right">2017.12-2020.03</td>
     <td width="200px">浩鲸云计算（北京）科技有限公司</td>
     <td width="210px">自动化测试工程师</td>
   </tr>
 
   <tr>
-    <td class="td_right">2013.10-2017.10</td>
+    <td class="td_right">2016.11-2017.11</td>
+    <td width="200px">爱多邦（北京）信息技术服务有限公司（外派爱立信）</td>
+    <td width="210px">测试工程师</td>
+  </tr>
+
+  <tr>
+    <td class="td_right">2013.10-2016.10</td>
     <td width="200px">上海艾融软件股份有限公司</td>
     <td width="210px">测试工程师</td>
   </tr>
@@ -365,7 +371,7 @@ hr {
 <table>
   <tr>
     <td class="td_left">浩鲸云计算科技股份有限公司</td>
-    <td width="200px" class="td_left">2017.11 ~ 2020.03</td>
+    <td width="200px" class="td_left">2017.12 ~ 2020.03</td>
     <td width="200px">自动化测试工程师</td>
   </tr> 
   <tr><td class="td_left" colspan="3">内容：</td></tr>
@@ -436,10 +442,10 @@ hr {
 <hr>
 
 
-<!-- <table>
+<table>
   <tr>
     <td class="td_left">爱多帮（北京）信息技术有限公司</td>
-    <td width="200px" class="td_left">2016.10 ~ 2019.02</td>
+    <td width="200px" class="td_left">2016.11 ~ 2017.11</td>
     <td width="200px">Python开发工程师</td>
   </tr> 
 
@@ -557,14 +563,14 @@ hr {
       2. 如期完成项目BE功能的研发，和FE联调测试，保证项目顺利上线。
     </td>
 </tr>
-</table> -->
+</table>
 
 <hr>
 
 <table>
   <tr>
     <td class="td_left">上海艾融软件股份有限公司</td>
-    <td width="200px" class="td_left">2013.10 ~ 2017.10</td>
+    <td width="200px" class="td_left">2013.10 ~ 2016.10</td>
     <td width="200px">测试工程师</td>
   </tr> 
   <tr><td class="td_left" colspan="3">内容：</td></tr>
