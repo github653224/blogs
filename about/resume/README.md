@@ -132,8 +132,6 @@ hr {
 
   <tr>
     <td class="td_right"  width="140px">2020.04-2023.05</td>
-
-
     <td width="360px">京东零售广告</td>
     <td width="210px">测试开发工程师</td>
   </tr> 
