@@ -5,7 +5,7 @@ sidebar: auto
 sticky: 1
 ---
 
-> 由于工作时间较长，简历内容较多，编写此微简历，方便面试官快速了解我的基本情况，如有需要可点击<a href="https://docs.qq.com/pdf/DVXRaa2JFbWZYYXhK">下载完整版简历</a>，谢谢！
+> 由于工作时间较长，简历内容较多，编写此微简历，方便面试官快速了解我的基本情况，如有需要可点击<a href="https://docs.qq.com/pdf/DVXV4dE1nTFRNa1h2">下载完整版简历</a>，谢谢！
 
 <hr>
 
