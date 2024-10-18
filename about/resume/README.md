@@ -125,7 +125,7 @@ hr {
 
 <table>
   <tr>
-    <td class="td_right"  width="140px">2023.06-至今</td>
+    <td class="td_right"  width="140px">2023.06-2024-09</td>
     <td width="360px">用友网络科技股份有限公司</td>
     <td width="210px">高级测试工程师</td>
   </tr> 
@@ -166,7 +166,7 @@ hr {
 <tr>
     <td>1.</td>
     <td class="td_left" width="110">证书</td>
-    <td>英语六级证书，软考证书，人人三小时公益证书，阿里云原生容器技术实践营课程培训证书</td>
+    <td>英语六级证书，软考证书，人人三小时公益证书，HarmonyOS应用开发者基础认证证书,阿里云原生容器技术实践营课程培训证书</td>
     <td width="200px">能熟练阅读英文IT资料和外文IT技术论坛来解决实际工作中遇到的问题</td>
   </tr>
 
